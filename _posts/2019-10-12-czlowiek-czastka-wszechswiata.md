@@ -24,3 +24,5 @@ Spoiwem, tworzywem łączącym te dwie materie przedmiotu poznania jest sfera ra
 Ażeby zrozumieć stan harmonii człowieka z otoczeniem poprzez domaganie się urzeczywistnienia potrzeb wyższego rzędu jako duchowych uwzględniających akceptację wartości indywidualnych oraz grupowych należy przyjąć paradygmat wielopoziomowości i wielopłaszczyznowości do ukazania tejże relacyjności. 
 
 Takie podejście metodologiczne pozwoli zobrazować dynamizm zmiany obrazu samoświadomości, samopotwierdzania i samowychowania jednostki w stronę integralnego rozwoju osobowościowego będącego stanem dojrzałości intelektualnej, emocjonalnej i uczuciowo-wolitywnej na rzecz dobra wspólnego.
+
+Książke można kupić pod adresem: [Człowiek cząstką wszechświata](https://ksiegarnia.difin.pl/czlowiek-czastka-wszechswiata)
