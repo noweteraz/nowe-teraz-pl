@@ -8,6 +8,7 @@ image: /uploads/a-balandynowicz-czlowiek-czastka-wszechswiata.jpg
 description: >-
   Przedstawiamy kolejną pozycję z Biblioteki FNT, która okazała się pod naszym
   patronatem. Książka prof. A. Bałandynowicza pt. Człowiek cząstką wszechświata.
+title: Człowiek cząstką wszechświata
 ---
 ![Człowiek cząstką wszechświata](/uploads/a-balandynowicz-czlowiek-czastka-wszechswiata.jpg)
 
