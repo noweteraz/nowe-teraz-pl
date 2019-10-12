@@ -25,4 +25,4 @@ Ażeby zrozumieć stan harmonii człowieka z otoczeniem poprzez domaganie się u
 
 Takie podejście metodologiczne pozwoli zobrazować dynamizm zmiany obrazu samoświadomości, samopotwierdzania i samowychowania jednostki w stronę integralnego rozwoju osobowościowego będącego stanem dojrzałości intelektualnej, emocjonalnej i uczuciowo-wolitywnej na rzecz dobra wspólnego.
 
-Książke można kupić pod adresem: [Człowiek cząstką wszechświata](https://ksiegarnia.difin.pl/czlowiek-czastka-wszechswiata)
+Książke można kupić pod adresem: [https://ksiegarnia.difin.pl](https://ksiegarnia.difin.pl/czlowiek-czastka-wszechswiata)
