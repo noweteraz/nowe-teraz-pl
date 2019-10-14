@@ -32,7 +32,7 @@ features:
           Prowadzimy wiele programów edukacyjnych wspierających i wyrównujących
           szanse życiowe
         image: /uploads/home__intro--biblioteka.svg
-  - title: Aktualne Projekty
+  - title: Projekty Fundacji
     handle: manage
     width: wide
     color: blue
