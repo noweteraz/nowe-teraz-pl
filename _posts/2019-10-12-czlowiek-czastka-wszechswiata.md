@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 2019-10-12T07:30:00.000Z
 tags:
   - patronaty
   - biblioteka
