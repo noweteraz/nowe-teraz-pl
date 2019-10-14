@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2019-10-12T12:00:00.000Z
+date: 2019-10-12T07:30:00.000Z
 tags:
   - patronaty
   - biblioteka
@@ -12,10 +12,10 @@ title: Człowiek cząstką wszechświata
 ---
 ![Człowiek cząstką wszechświata](/uploads/a-balandynowicz-czlowiek-czastka-wszechswiata.jpg)
 
-Przedstawiamy kolejną pozycję z __Biblioteki FNT__, która okazała się pod naszym patronatem. Książka prof. A. Bałandynowicza pt. **Człowiek cząstką wszechświata.**
+Przedstawiamy kolejną pozycję z __Biblioteki FNT__, która ukazała się pod naszym patronatem. Książka prof. A. Bałandynowicza pt. **Człowiek cząstką wszechświata.**
 
 
-**Krótki opis**
+**Krótki opis zawartości**
 
 Filozofia człowieka i jego rola dla społeczności, wspólnotowości a także dla całego rodu ludzkiego stanowi żywotny gwarant dla filozofii prawa i organizowania się systemu państwa. 
 
