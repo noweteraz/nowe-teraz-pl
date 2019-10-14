@@ -57,7 +57,7 @@ features:
           Wspieramy wydawców, autorów oraz ludzi nauki pomagając i
           współfinansując publikacje, które pomagają realizować naszą misję.
         image: /uploads/home__manage--biblioteka.jpg
-        link: null
+        link: 'https://www.noweteraz.pl/fnt-library/'
       - title: EUROGOSPODARKA
         handle: customize
         body: 'Nasze pismo tłumaczące zawiłości rynków, gospodarki, pieniądza.'
