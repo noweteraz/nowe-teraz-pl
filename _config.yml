@@ -15,7 +15,7 @@ collections:
     title: Uploads
     output: true
   products:
-    _hide_content: false
+    _hide_content: true
     output: false
 defaults:
 - scope:
