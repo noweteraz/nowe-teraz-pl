@@ -1,7 +1,7 @@
 ---
 title: Aukcje Charytatywne
 layout: default
-permalink: null
+permalink: /aukcje/
 color: yellow
 published: true
 ---
