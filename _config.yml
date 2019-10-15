@@ -15,7 +15,7 @@ collections:
     title: Uploads
     output: true
   products:
-    _hide_content: true
+    _hide_content: false
     output: false
 defaults:
 - scope:
@@ -82,4 +82,3 @@ footer_nav:
   Strona główna: "/"
   Polityka prywatności: "/polityka-prywatnosci/"
   Kontakt: "/kontakt/"
-
