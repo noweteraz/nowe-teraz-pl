@@ -8,7 +8,9 @@ subtitle: wspólne działanie osób w trudnej sytuacji życiowej.
 color: yellow
 button:
   title: Sprawdź
+  title-auction: Wspomóż nasze działania
   url: 'https://www.salondluznika.pl/'
+  internal-url: '/aukcje/'
 extended_header: true
 features:
   - title: null
@@ -81,6 +83,7 @@ features:
         body: >-
           Gdy nie uczestniczy w życiu zbiorowym lub też nie przejawia aktywności
           obywatelskiej. Gdy nie uczestniczy w procesie wymiany dóbr czy usług.
+    button-auction: true
   - title: Projekt Wykluczeni
     handle: launch
     background: green

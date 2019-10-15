@@ -69,6 +69,7 @@ layout: default
           {{ feature.body | markdownify }}
       {% endcase %}
       {% if feature.button %}<a href="{{ page.button.url }}" class="feature__button bg--blue">{{ page.button.title }}</a>{% endif %}
+      {% if feature.button-auction %}<a style="color: #222" href="{{ page.button.internal-url }}" class="feature__button bg--white">{{ page.button.title-auction }}</a>{% endif %}
     </section>
   </div>
 {% endfor %}

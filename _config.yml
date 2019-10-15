@@ -3,20 +3,20 @@ title: Fundacja Nowe Teraz
 timezone: Europe/Warsaw
 collections:
   gallery:
-    title: Gallery
-    output: false
+    title: Biblioteka FNT
+    output: true
   posts:
     title: Posts
     output: true
   blog_tags:
     title: Tags
     output: true
-  tweets:
-    title: Testimonials
-    output: false
   uploads:
     title: Uploads
     output: true
+  products:
+    _hide_content: true
+    output: false
 defaults:
 - scope:
     path: ''
