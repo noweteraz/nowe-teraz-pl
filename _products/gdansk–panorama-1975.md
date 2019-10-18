@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Gdańsk – panorama (1975)"
 image: /uploads/products/Gdansk__Panorama__1975.jpg
-price: '450.00'
+price: '450'
 identifier: gdansk–panorama-1975
 ---
 

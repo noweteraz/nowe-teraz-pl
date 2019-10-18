@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Tykocin – kościół Św. Trójcy, Narew, łodzie"
 image: /uploads/products/Tykocin__Narew__Lodzie.jpg
-price: '900.00'
+price: '900'
 identifier: tykocin–kosciol-sw-trojcy
 ---
 

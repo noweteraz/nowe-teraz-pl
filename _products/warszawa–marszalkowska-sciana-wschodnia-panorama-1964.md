@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Warszawa – ul. Marszałkowska, Ściana Wschodnia, panorama (1964)"
 image: /uploads/products/Warszawa__Ul._Marszalkowska_1964.jpg
-price: '1100.00'
+price: '1100'
 identifier: warszawa–marszalkowska-sciana-wschodnia-panorama-1964
 ---
 

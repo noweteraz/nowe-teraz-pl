@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Warszawa – Wilanów – Pałac (widok) (1962)"
 image: /uploads/products/Wilanow__Palac__Widok__1962.jpg
-price: '350.00'
+price: '350'
 identifier: warszawa–wilanow–palac-1962
 ---
 

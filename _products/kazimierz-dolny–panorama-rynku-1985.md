@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Kazimierz Dolny – panorama rynku (1985)"
 image: /uploads/products/Kazimierz_Dln__Panorama_Rynku__1985.jpg
-price: '600.00'
+price: '600'
 identifier: kazimierz-dolny–panorama-rynku-1985
 ---
 

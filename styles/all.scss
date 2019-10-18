@@ -1431,6 +1431,7 @@ body {
 
 .buy-button {
   all: unset;
+  cursor: pointer;
   color: white;
   background-color: $color--blue;
   border: 1px solid darken($color--blue, 3%);
@@ -1447,4 +1448,19 @@ body {
     @include max-width($max-width--md) {
       margin-bottom: 30px;
     }
+}
+
+// misc
+// ------
+
+.mt-30 {
+  margin-top: 30px;
+}
+
+.mb-30 {
+  margin-bottom: 30px;
+}
+
+.mb-90 {
+  margin-bottom: 90px;
 }

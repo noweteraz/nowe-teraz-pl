@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Pińczów – panorama (1967)"
 image: /uploads/products/Pinczow__Panorama__1967.jpg
-price: '900.00'
+price: '900'
 identifier: pinczow–panorama-1967
 ---
 

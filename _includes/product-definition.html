@@ -1,10 +1,10 @@
-<button
-  class="buy-button snipcart-add-item"
-  data-item-id="{{ product.identifier }}"
-  data-item-name="{{ product.title }}"
-  data-item-price="{{ product.price }}"
-  data-item-image="{{ product.image }}"
-  data-item-url="{{ page.url | absolute_url}}"
-  data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
-  Kupuje ({{ product.price }} zł)
-</button>
+<form name="p24" action="https://cart.przelewy24.pl/index/add" method="post" accept-charset="utf-8">
+  <input type="hidden" name="p24_crc" value="cedc650ff905dd3be66444c8bd00d8adb201a9dc" />
+  <input type="hidden" name="p24_id_salesman" value="97190" />
+  <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
+  <input type="hidden" name="p24_currency" value="pln">
+  <input type="hidden" name="p24_name" value="{{ product.title }}" />
+  <input type="hidden" name="p24_amount" value="{{ product.price | times:100 }}" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje ({{ product.price }} zł)" />
+  <input type="hidden" name="p24_add" value="1" />
+</form>

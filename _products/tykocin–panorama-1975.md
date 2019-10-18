@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Tykocin – panorama (1975)"
 image: /uploads/products/Tykocin__Panorama__1975.jpg
-price: '1100.00'
+price: '1100'
 identifier: tykocin–panorama-1975
 ---
 
