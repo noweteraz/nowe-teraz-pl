@@ -2,6 +2,7 @@
 title: "Henryk Dąbrowski. Praga – Most Karola, Hradczany (1986)"
 image: /uploads/products/Praga__Most_Karola__1986.jpg
 price: '1000'
+price-1: '350'
 identifier: praga–most-karola-1986
 ---
 

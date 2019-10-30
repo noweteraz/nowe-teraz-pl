@@ -5,6 +5,8 @@
   <input type="hidden" name="p24_currency" value="pln">
   <input type="hidden" name="p24_name" value="{{ product.title }}" />
   <input type="hidden" name="p24_amount" value="{{ product.price | times:100 }}" />
-  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje ({{ product.price }} zł)" />
+  <input type="hidden" name="p24_amount" value="{{ product.price-1 | times:100 }}" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość 1:1 ({{ product.price }} zł)" />
+  {% if product.price-1 %}<input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość zmniejszoną ({{ product.price-1 }} zł)" />{% endif %}
   <input type="hidden" name="p24_add" value="1" />
 </form>

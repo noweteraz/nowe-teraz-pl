@@ -2,6 +2,7 @@
 title: "Henryk Dąbrowski. Kazimierz Dolny – Widok na podcienia w rynku i farę (1960)"
 image: /uploads/products/Kazimierz_Dln__Podcienia_w_rynku__1960.jpg
 price: '1000'
+price-1: '400'
 identifier: kazimierz-dolny–widok-na-podcienia-w-rynku-i-fare-1960
 ---
 
