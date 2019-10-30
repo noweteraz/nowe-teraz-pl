@@ -5,4 +5,4 @@ price: '900'
 identifier: rzym-tempietto-del-bramante-z-kolumnada-1965
 ---
 
-Rysunek z natury. Tusz, akwarela, karton 65x48 cm, rok 1963.
+Rysunek z natury. Tusz, akwarela, karton 70x50 cm, rok 1965.

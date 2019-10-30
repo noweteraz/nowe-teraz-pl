@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Panorama Warszawy (1995)"
 image: /uploads/products/Warszawa__Panorama__1995.jpg
-price: '900'
+price: '1400'
 identifier: panorama-warszawy-1995
 ---
 

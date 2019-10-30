@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Paryż – Katedra Notre-Dame (1980)"
 image: /uploads/products/Paryz__Katedra_Notre_Dame__1980.jpg
-price: '400'
+price: '1100'
 identifier: paryz–katedra-notre-dame-1980
 ---
 

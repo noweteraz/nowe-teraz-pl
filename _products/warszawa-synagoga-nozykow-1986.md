@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Warszawa, Synagoga Nożyków (1986)"
 image: /uploads/products/Warszawa__Synagoga_Nozykow__1986.jpg
-price: '350'
+price: '800'
 identifier: warszawa-synagoga-nozykow-1986
 ---
 

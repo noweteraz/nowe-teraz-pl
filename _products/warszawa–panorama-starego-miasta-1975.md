@@ -1,7 +1,7 @@
 ---
 title: "Henryk Dąbrowski. Warszawa – panorama Starego Miasta (1975)"
 image: /uploads/products/Warszawa__Panorama_Starego_Miasta__1975.jpg
-price: '550'
+price: '1300'
 identifier: warszawa–panorama-starego-miasta-1975
 ---
 
