@@ -8,8 +8,6 @@ image: "/uploads/nowe-teraz-wizyta-krzywaniec-1.jpg"
 description: "Na początku października reprezentanci Fundacji Nowe Teraz odwiedzili Dom Matki i Dziecka funkcjonujący na terenie Zakładu Karnego w Krzywańcu."
 ---
 
-![Z odwiedzinami w Zakładzie Karnym w Krzywańcu](/uploads/nowe-teraz-wizyta-krzywaniec-1.jpg)
-
 Na początku października reprezentanci Fundacji Nowe Teraz odwiedzili Dom Matki i Dziecka funkcjonujący na terenie Zakładu Karnego w Krzywańcu.
 
 

@@ -9,8 +9,6 @@ image: "/uploads/aukcja_charytatywna_kon_na_biegunach_nowe-teraz.jpg"
 description: "Fundacja Nowe Teraz oraz miesięcznik EUROGOSPODARKA serdecznie zapraszają na aukcję charytatywną Koń na biegunach. "
 ---
 
-![Aukcja charytatywna Koń na biegunach](/uploads/aukcja_charytatywna_kon_na_biegunach_nowe-teraz.jpg)
-
 Fundacja Nowe Teraz oraz miesięcznik EUROGOSPODARKA serdecznie zapraszają na aukcję charytatywną "Koń na biegunach". Przygotowaliśmy ją wspólnie ze służewieckim Torem Wyścigów Konnych. Aukcja odbędzie się podczas ostatniej gonitwy, zamykającej tegoroczny sezon wyścigów.
 
 

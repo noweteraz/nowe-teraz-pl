@@ -8,8 +8,6 @@ image: "/uploads/nowe-teraz-gala-ekb-1.jpg"
 description: "W Muzeum Pałacu Króla Jana III Sobieskiego w Wilanowie odbyła się w sobotę, 12 września 2015 r., uroczysta Gala Europejskiego Klubu Biznesu Polska"
 ---
 
-![Gala Europejskiego Klubu Biznesu Polska](/uploads/nowe-teraz-gala-ekb-1.jpg)
-
 W Muzeum Pałacu Króla Jana III Sobieskiego w Wilanowie odbyła się w sobotę, 12 września 2015 r., uroczysta Gala Europejskiego Klubu Biznesu Polska, podczas której wręczono nagrody osobom i firmom, które w szczególny sposób przyczyniły się do rozwoju w Polsce przedsiębiorczości, gospodarki, nauki, kultury i sportu oraz które osiągnęły sukces na skalę europejską i światową.
 
 

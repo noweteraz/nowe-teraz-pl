@@ -9,8 +9,6 @@ image: "/uploads/nowe-teraz-konferencja-informacja-bezpieczenstwo.jpg"
 description: "05 lutego 2015 r. o godz. 09.00 w Centrum Konferencyjnym WP przy ul. Żwirki i Wigury 9/13, WSSE zorganizowała przy współudziale Wydziału Bezpieczeństwa Narodowego Akademii Obrony Narodowej i Wydziału Logistyki Wojskowej Akademii Technicznej ogólnokrajową konferencję naukową INFORMACJA A BEZPIECZEŃSTWO."
 ---
 
-![Ogólnokrajowa konferencja Informacja a bezpieczeństwo](/uploads/nowe-teraz-konferencja-informacja-bezpieczenstwo.jpg)
-
 05 lutego 2015 r. o godz. 09.00 w Centrum Konferencyjnym WP przy ul. Żwirki i Wigury 9/13, WSSE zorganizowała przy współudziale Wydziału Bezpieczeństwa Narodowego Akademii Obrony Narodowej i Wydziału Logistyki Wojskowej Akademii Technicznej ogólnokrajową konferencję naukową INFORMACJA A BEZPIECZEŃSTWO.
 
 

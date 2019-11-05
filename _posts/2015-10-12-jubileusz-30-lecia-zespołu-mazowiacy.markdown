@@ -8,8 +8,6 @@ image: "/uploads/nowe-teraz-wizyta-mazowiacy-20.jpg"
 description: "12 października br., w Sali Kolumnowej Sejmu RP, odbyła się uroczystość jubileuszu XXX-lecia działalności artystycznej Integracyjnego Zespołu Pieśni i Tańca Mazowiacy."
 ---
 
-![Jubileusz XXX-lecia Zespołu Pieśni i Tańca Mazowiacy](/uploads/nowe-teraz-wizyta-mazowiacy-20.jpg)
-
 12 października br., w Sali Kolumnowej Sejmu RP, odbyła się uroczystość jubileuszu XXX-lecia działalności artystycznej Integracyjnego Zespołu Pieśni i Tańca Mazowiacy. Od 1997 roku nad zespołem pieczę sprawuje Fundacja Krzewienia Kultury Artystycznej Osób Niepełnosprawnych.
 
 

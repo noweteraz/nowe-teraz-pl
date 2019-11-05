@@ -9,8 +9,6 @@ image: "/uploads/dar-fnt-biblioteka-poznan.jpg"
 description: "Fundacja Nowe Teraz ofiarowała Publicznej Bibliotece Pedagogicznej w Poznaniu cztery tomy materiałów z VI Międzynarodowej Konferencji Naukowej pt. Modele Ochrony Praw Człowieka."
 ---
 
-![Dar dla Publicznej Biblioteki Pedagogicznej w Poznaniu](/uploads/dar-fnt-biblioteka-poznan.jpg)
-
 Fundacja Nowe Teraz ofiarowała Publicznej Bibliotece Pedagogicznej w Poznaniu cztery tomy materiałów z VI Międzynarodowej Konferencji Naukowej pt. Modele Ochrony Praw Człowieka: Europejski i Amerykański: Aksjologia, Instytucje, Efektywność (11-14 kwietnia 2014 r., Warszawa). Prezes fundacji Karolina Kanarek-Kwiatek przekazała książki 2 października br. na ręce dyrektor biblioteki Danuty Wielbowicz.
 
 

@@ -10,8 +10,6 @@ description: >-
 title: Aukcje charytatywne na rzecz wykluczonych
 ---
 
-![Aukcje charytatywne na rzecz wykluczonych](/uploads/baner-600x600-aukcje-charytatywne.jpg)
-
 Zapraszamy na stałe aukcje dzieł sztuki, z których dochód przeznaczamy na pomoc dla środowisk ludzi wykluczonych. 
 
 

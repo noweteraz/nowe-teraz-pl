@@ -8,8 +8,6 @@ image: "/uploads/wykluczeni-e-wydanie-03-2019.jpg"
 description: "Uruchomilismy serwis wykluczeni.pl."
 ---
 
-![Uruchomilismy serwis wykluczeni.pl](/uploads/wykluczeni-e-wydanie-03-2019.jpg)
-
 W ramach projektu Wykluczeni uruchomiliśmy portal Wykluczeni.pl. 
 
 

@@ -6,8 +6,6 @@ image: "/uploads/p_adamowicz.jpg"
 description: "Z wielkim smutkiem przyjęliśmy wiadomość o tragicznej śmierci Prezydenta Miasta Gdańska PAWŁA ADAMOWICZA życzliwego ludziom człowieka, kochającego Gdańsk, i jego mieszkańców."
 ---
 
-![Paweł Adamowicz (1965-2019)](/uploads/p_adamowicz.jpg)
-
 Z wielkim smutkiem przyjęliśmy wiadomość o tragicznej śmierci Prezydenta Miasta Gdańska PAWŁA ADAMOWICZA życzliwego ludziom człowieka, kochającego Gdańsk, i jego mieszkańców.
 
 

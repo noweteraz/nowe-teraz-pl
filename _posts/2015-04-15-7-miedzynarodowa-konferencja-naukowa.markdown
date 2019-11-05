@@ -8,8 +8,6 @@ image: "/uploads/nowe-teraz-konferencja-informacja-bezpieczenstwo.jpg"
 description: "VII. Międzynarodowa Konferencja Naukowa z okazji 65. rocznicy podpisania Europejskiej Konwencji Praw Człowieka, 40. Rocznicy podpisania Aktu Końcowego Konferencji w Helsinkach oraz 20. rocznicy dokumentu Komisji Wspólnot W stronę strategii wobec Azji, została zorganizowana w gmachu Sejmu RP w dniach 13-15 kwietnia 2015r."
 ---
 
-![VII Międzynarodowa Konferencja Naukowa](/uploads/sejm-konferencja19.jpg)
-
 VII. Międzynarodowa Konferencja Naukowa z okazji 65. rocznicy podpisania Europejskiej Konwencji Praw Człowieka, 40. Rocznicy podpisania Aktu Końcowego Konferencji w Helsinkach oraz 20. rocznicy dokumentu Komisji Wspólnot „W stronę strategii wobec Azji”, została zorganizowana w gmachu Sejmu RP w dniach 13-15 kwietnia 2015r.
 
 

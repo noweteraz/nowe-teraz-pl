@@ -8,8 +8,6 @@ image: "/uploads/1-19298.jpg"
 description: "W środę, 27 maja br. w Klubie Wojskowej Akademii Technicznej w Warszawie, odbyła się ogólnopolska konferencja naukowa pt.: Miejsce i Rola Podsystemu Niemilitarnego w Systemie Obronnym Państwa (w świetle doświadczeń i wyzwań XXI wieku oraz Strategii Bezpieczeństwa Narodowego RP 2014)."
 ---
 
-![Ogólnopolska Konferencja Naukowa na WAT](/uploads/1-19298.jpg)
-
 W środę, 27 maja br. w Klubie Wojskowej Akademii Technicznej w Warszawie, odbyła się ogólnopolska konferencja naukowa pt.: „Miejsce i Rola Podsystemu Niemilitarnego w Systemie Obronnym Państwa (w świetle doświadczeń i wyzwań XXI wieku oraz Strategii Bezpieczeństwa Narodowego RP 2014)". Patronat honorowy nad konferencją zorganizowaną przez Wydział Logistyki WAT, Polski Związek Strzelectwa Sportowego, Sekcję Strzelecką CWKS „Legia" Warszawa i Polski Holding Obronny, objął wiceprezes Rady Ministrów i minister Obrony Narodowej Tomasz Siemoniak.
 
 

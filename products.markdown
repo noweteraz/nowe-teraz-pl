@@ -19,9 +19,10 @@ Prace pochądzą ze zbioru Jacka Filochowskiego jedynego spadkobiercy całej spu
 <p>
 Każdy Nabywca repliki, oraz jego następca otrzymuje prawo do odtworzenia nabytego egzemplarza w przypadku jego uszkodzenia pod warunkiem udokumentowania jego prawnego pochodzenia. Egzemplarz podlegający wymianie musi posiadać możliwy do zidentyfikowania certyfikat potwierdzający jego autentyczność.  </p>
 
+<h2>Lista aktualnych aukcji </h2>
+
+<div id="auctions_list">
+{% include product.html %}
+</div>
 
 </section>
-
-{% for product in site.products %}
-  {% include product.html %}
-{% endfor %}

@@ -6,8 +6,6 @@ image: "/uploads/swieczka.jpg"
 description: "Nie żyje żona Edwarda Miszczaka, dyrektora programowego TVN. Małgorzata Miszczak zmarła 20 lutego po ciężkiej chorobie."
 ---
 
-![Zmarła Małgorzata Miszczak](/uploads/swieczka.jpg)
-
 Nie żyje żona Edwarda Miszczaka, dyrektora programowego TVN. Małgorzata Miszczak zmarła 20 lutego po ciężkiej chorobie.
 
 

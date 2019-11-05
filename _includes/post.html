@@ -28,19 +28,19 @@
 
     {% if post.vimeo %}
     <iframe src="https://player.vimeo.com/video/{{post.vimeo}}?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreenn></iframe>
-    <p class="caption">Watch <a href="https://vimeo.com/{{post.vimeo}}" target="_blank">{{post.title}}</a> on Vimeo</p>
-    {% elsif post.hero %}
+    <p class="caption">Obejrzyj <a href="https://vimeo.com/{{post.vimeo}}" target="_blank">{{post.title}}</a> na Vimeo</p>
+    {% elsif post.image %}
     <p>
-      <a href="{{post.url}}"><img src="{{post.hero}}" alt="{{post.title}}" /></a>
+      <img src="{{post.image}}" alt="{{post.title}}" />
     </p>
     {% endif %}
 
     {% if is_excerpt %}
-      {{ post.excerpt | markdownify }}
+      {{ post.description | markdownify }}
     {% else %}
       {{ post.content | markdownify }}
     {% endif %}
-    {% if is_excerpt and post.excerpt != post.content %}
+    {% if is_excerpt and post.description != post.content %}
       <a href="{{ post.url }}" class="article__content__more">Czytaj więcej</a>
     {% endif %}
   </section>

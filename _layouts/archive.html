@@ -3,7 +3,8 @@ layout: default
 ---
 
 <ul class="archive__items">
-  {% for post in site.posts %}
+{% assign posts = site.posts | where: "categories", "posty" %}
+  {% for post in posts %}
     {% assign month = post.date | date: '%m %Y' %}
     {% unless post.next %}
       <h4 class="archive__month">{{ month }}</h4>

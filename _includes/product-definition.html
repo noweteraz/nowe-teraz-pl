@@ -3,10 +3,10 @@
   <input type="hidden" name="p24_id_salesman" value="97190" />
   <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
   <input type="hidden" name="p24_currency" value="pln">
-  <input type="hidden" name="p24_name" value="{{ product.title }}" />
-  <input type="hidden" name="p24_amount" value="{{ product.price | times:100 }}" />
-  <input type="hidden" name="p24_amount" value="{{ product.price-1 | times:100 }}" />
-  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość 1:1 ({{ product.price }} zł)" />
-  {% if product.price-1 %}<input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość zmniejszoną ({{ product.price-1 }} zł)" />{% endif %}
+  <input type="hidden" name="p24_name" value="{{ aukcje.title }}" />
+  <input type="hidden" name="p24_amount" value="{{ aukcje.price | times:100 }}" />
+  <input type="hidden" name="p24_amount" value="{{ aukcje.price-1 | times:100 }}" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" />
+  {% if aukcje.price-1 %}<input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" />{% endif %}
   <input type="hidden" name="p24_add" value="1" />
 </form>

@@ -1,10 +1,33 @@
-<main class="gallery__main">
+{% assign auctions_array = "" | split: "|"  %}
+{% assign sorted_auctions = site.products | sort: "title" %}
+{% for aukcje in sorted_auctions %}
+{% assign auctions_array = auctions_array | push: aukcje.identifier %}
+{% endfor %}
+{% assign auction_cats = auctions_array | uniq %}
+
+<div class="tags">
+  <div>Filtruj według:</div>
+   {% for identifier in auction_cats %}
+  <div class="tag filter" data-filter="{{ identifier }}">{{ identifier }} </div>
+  {% endfor %}
+</div>
+
+<div class="list">
+{% for aukcje in sorted_auctions %}
+<div class="gallery__main auctions" style="display: none;">
 <div class="product">
   <div class="product__information">
-    <h2 class="product__title">{{ product.title }}</h2>
-    <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
+    <h2 class="product__title">{{ aukcje.title }}</h2>
+    <p class="product__description">{{ aukcje.content | remove: '<p>' | remove: '</p>' }}</p>
+    <p style="display: none;" class="product__identifier">{{ aukcje.identifier }}</p>
     {% include product-definition.html %}
   </div>
-  <img src="{{ product.image }}" alt="{{ product.title }} product image" class="product__image">
+  <a data-lity href="{{ aukcje.image }}" ><img src="{{ aukcje.image }}" alt="{{ aukcje.title }} product image" class="product__image"></a>
 </div>
-</main>
+</div>
+{% endfor %}
+</div>
+
+<div class="blog__buttonWrap">
+  <a id="loadMore" href="#" class="bg--gray blog__button">Pokaż następne</a>
+</div>

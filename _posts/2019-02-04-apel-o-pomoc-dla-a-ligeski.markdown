@@ -7,8 +7,6 @@ image: "/uploads/skazany.jpg"
 description: "Instruktor fitness i ekspert do spraw zarządzania fitness clubami Artur Ligęska został skazany przez sąd w Zjednoczonych Emiratach Arabskich na dożywocie."
 ---
 
-![Apel o pomoc dla A. Ligęski](/uploads/skazany.jpg)
-
 Instruktor fitness i ekspert do spraw zarządzania fitness clubami Artur Ligęska został skazany przez sąd w Zjednoczonych Emiratach Arabskich na dożywocie. Wyrok jest następstwem zarzutów dotyczących posiadania i zażywania metamfetaminy. Jego bliscy apelują o pomoc.
 
 

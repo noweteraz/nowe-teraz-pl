@@ -160,5 +160,40 @@ $(function(){
   // ----------
 
   init();
+  
+    // Add load more
+  $(".auctions").slice(0, 20).show();
+    if ($(".gallery__main:hidden").length != 0) {
+      $("#loadMore").show();
+    }   
+    $("#loadMore").on('click', function (e) {
+      e.preventDefault();
+      $(".auctions:hidden").slice(0, 6).slideDown();
+      if ($(".auctions:hidden").length == 0) {
+        $("#loadMore").fadeOut('slow');
+      }
+    });
+    //end Add load more
+    
+// Create Filters
+var options = {
+  valueNames: [ 'product__title', 'product__description', 'product__identifier' ]
+};
+
+var auctions_list = new List('auctions_list', options);
+
+$('.filter').on('click',function(){
+  var $q = $(this).attr('data-filter');
+  if($(this).hasClass('active')){
+    auctions_list.filter();
+    $('.filter').removeClass('active');
+  } else {
+    auctions_list.filter(function(item) {
+      return (item.values().product__identifier == $q);
+    });
+    $('.filter').removeClass('active');
+    $(this).addClass('active');
+  }
+});
 
 });

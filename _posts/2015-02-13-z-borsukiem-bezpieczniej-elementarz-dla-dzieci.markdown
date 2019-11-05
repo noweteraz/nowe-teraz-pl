@@ -8,8 +8,6 @@ image: "/uploads/okladka_z_borsukiem.jpg"
 description: "Wydział Prewencji Komendy Stołecznej Policji wychodząc naprzeciw oczekiwaniom w zakresie kształtowania właściwych i pożądanych postaw najmłodszych z sukcesami realizuje zajęcia profilaktyczno-edukacyjne pod nazwą Z Borsukiem bezpieczniej."
 ---
 
-![Z borsukiem bezpieczniej. Elementarz dla dzieci](/uploads/okladka_z_borsukiem.jpg)
-
 Wydział Prewencji Komendy Stołecznej Policji wychodząc naprzeciw oczekiwaniom w zakresie kształtowania właściwych i pożądanych postaw najmłodszych z sukcesami realizuje zajęcia profilaktyczno-edukacyjne pod nazwą „Z Borsukiem bezpieczniej". Od wielu lat PATRONAT MEDIALNY nad projektem sprawuje miesięcznik społeczno – gospodarczy EUROGOSPODARKA.
 
 
