@@ -162,7 +162,7 @@ $(function(){
   init();
   
     // Add load more
-  $(".auctions").slice(0, 20).show();
+  $(".auctions").slice(0, 10).show();
     if ($(".gallery__main:hidden").length != 0) {
       $("#loadMore").show();
     }   
@@ -184,6 +184,7 @@ var auctions_list = new List('auctions_list', options);
 
 $('.filter').on('click',function(){
   var $q = $(this).attr('data-filter');
+   $(".auctions:hidden").show();
   if($(this).hasClass('active')){
     auctions_list.filter();
     $('.filter').removeClass('active');

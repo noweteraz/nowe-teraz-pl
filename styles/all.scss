@@ -160,6 +160,9 @@ mark {
   background: #ffa;
   color: inherit;
 }
+.underline {
+  text-decoration: underline;
+}
 
 // components
 // ----------
@@ -268,7 +271,6 @@ h6 {
     background: darken($color--leaf, $darken--button);
   }
   @include max-width($max-width--sm) {
-    background: inherit;
     color: inherit;
     margin-left: 0;
     &:hover {
@@ -1517,3 +1519,31 @@ body {
     }
   }
   }
+  
+  // cookie
+// ------
+    #cookie-notice {
+    padding: 7px 15px; 
+    display: none; 
+    text-align: center; 
+    position: fixed; 
+    bottom: 0; 
+    width: 100%; 
+    background: #222; 
+    color: rgba(255,255,255,0.8);
+      a {
+      cursor: pointer; 
+      margin-left: 10px;
+      @include max-width($max-width--sm) {
+        position: relative; 
+        bottom: 4px;
+      }
+      }
+      span {
+      @include max-width($max-width--sm) {
+      display: block; 
+      padding-top: 3px; 
+      margin-bottom: 13px;
+      }
+    }
+    }

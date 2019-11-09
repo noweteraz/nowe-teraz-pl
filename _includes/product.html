@@ -1,5 +1,5 @@
 {% assign auctions_array = "" | split: "|"  %}
-{% assign sorted_auctions = site.products | sort: "title" %}
+{% assign sorted_auctions = site.auctions | sort: "title" %}
 {% for aukcje in sorted_auctions %}
 {% assign auctions_array = auctions_array | push: aukcje.identifier %}
 {% endfor %}

@@ -20,7 +20,7 @@
       </ul>
     {% endif %}
     {% if post.date %}
-    <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{% if page.url == '/polityka-prywatnosci/' %}Aktualizacja: {% endif %}{{ post.date | date: site.date_format }}</time>
+    <time class="article__date" datetime="{{ post.date | date_to_xmlschema }}">{% if page.url == '/polityka-prywatnosci/' or page.url == '/regulamin/' %}Aktualizacja: {% endif %}{{ post.date | date: site.date_format }}</time>
     {% endif %}
   </section>
   {% endif %}
