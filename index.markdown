@@ -29,7 +29,7 @@ features:
           Przez program Salon Dłużnika pomagamy przywrócić dłużnika do
           normalnego funkcjonowania
         image: /uploads/home__intro--salon.svg
-      - title: Edukacja społecznia i zawodowa
+      - title: Edukacja społeczna i zawodowa
         body: >-
           Prowadzimy wiele programów edukacyjnych wspierających i wyrównujących
           szanse życiowe
