@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siteleaf/siteleaf.com.git"
+    "url": "git+https://github.com/noweteraz/noweteraz.github.io.git"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
