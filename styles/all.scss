@@ -1489,7 +1489,7 @@ body {
     margin-bottom: .5rem;
     margin-right: .5rem;
     color: white;
-    background: $color--green;
+    background: $color--gray;
     padding: .2rem .6rem .2rem .6rem;
     font-weight: 600;
     font-size: .9rem;
@@ -1515,9 +1515,22 @@ body {
     
     &:hover,
     &.active {
-      background: ($color--green, 30%);
+      background: $color--green;
     }
   }
+  }
+  
+  .count {
+  padding: .3rem;
+  border-radius: 1rem;
+  font-size: 1rem;
+  margin-left: .5rem;
+  margin-top: -2rem;
+  min-width: 1.5rem;
+  line-height: 1.2;
+  text-align: center;
+  background: $color--red;
+  color: $color--white;
   }
   
   // cookie

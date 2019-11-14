@@ -197,4 +197,11 @@ $('.filter').on('click',function(){
   }
 });
 
+// Return # of items
+var $count = $('.count')
+$count.append(auctions_list.size());
+auctions_list.on('filterComplete', function(){
+  $count.text(auctions_list.update().matchingItems.length);
+});
+
 });
