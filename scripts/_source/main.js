@@ -185,6 +185,7 @@ var auctions_list = new List('auctions_list', options);
 $('.filter').on('click',function(){
   var $q = $(this).attr('data-filter');
    $(".auctions:hidden").show();
+   $("#loadMore").hide();
   if($(this).hasClass('active')){
     auctions_list.filter();
     $('.filter').removeClass('active');
