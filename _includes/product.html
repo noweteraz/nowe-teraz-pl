@@ -3,7 +3,7 @@
 {% for aukcje in sorted_auctions %}
 {% assign auctions_array = auctions_array | push: aukcje.identifier %}
 {% endfor %}
-{% assign auction_cats = auctions_array | uniq %}
+{% assign auction_cats = auctions_array | uniq | sort: identifier %}
 
 <div class="tags">
   <div>Filtruj według:</div>
