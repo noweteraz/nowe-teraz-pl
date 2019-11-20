@@ -1,0 +1,20 @@
+---
+layout: null
+---
+
+{
+ 
+  "items": [
+
+    {% for post in site.auctions %}
+      {
+        "product": {{ post.title | smartify | strip_html | normalize_whitespace | jsonify }},
+        "price": {{ post.price | smartify | strip_html | normalize_whitespace | jsonify }},
+        "price-1": {{ post.price-1 | smartify | strip_html | normalize_whitespace | jsonify }},
+        "description": {{ post.content | smartify | strip_html | normalize_whitespace | jsonify }},
+        "category": {{ post.identifier | smartify | strip_html | normalize_whitespace | jsonify }},
+        "image": {{ post.image | absolute_url | jsonify }}
+      }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}

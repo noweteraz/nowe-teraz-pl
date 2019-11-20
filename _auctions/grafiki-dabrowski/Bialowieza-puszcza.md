@@ -2,7 +2,7 @@
 title: "Białowieża, puszcza (1955)"
 image: /uploads/products/Bialowieza-puszcza-(1955).jpg
 price: '700' #price oryginal: 700
-price-1: '700' #price oryginal: 300
+price-1: '300' #price oryginal: 300
 identifier: Białowieża
 ---
 

@@ -1455,6 +1455,10 @@ body {
     }
 }
 
+input[type=submit]:disabled,
+button:disabled {
+  cursor: not-allowed; 
+}
 // misc
 // ------
 

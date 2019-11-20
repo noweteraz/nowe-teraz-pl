@@ -5,8 +5,17 @@
   <input type="hidden" name="p24_currency" value="pln">
   <input type="hidden" name="p24_name" value="{{ aukcje.title }}" />
   <input type="hidden" name="p24_amount" value="{{ aukcje.price | times:100 }}" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" disabled="disabled" />
+  <input type="hidden" name="p24_add" value="1" />
+</form>
+
+<form name="p24" action="https://cart.przelewy24.pl/index/add" method="post" accept-charset="utf-8">
+  <input type="hidden" name="p24_crc" value="cedc650ff905dd3be66444c8bd00d8adb201a9dc" />
+  <input type="hidden" name="p24_id_salesman" value="97190" />
+  <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
+  <input type="hidden" name="p24_currency" value="pln">
+  <input type="hidden" name="p24_name" value="{{ aukcje.title }}" />
   <input type="hidden" name="p24_amount" value="{{ aukcje.price-1 | times:100 }}" />
-  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" />
-  {% if aukcje.price-1 %}<input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" />{% endif %}
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" disabled="disabled" />
   <input type="hidden" name="p24_add" value="1" />
 </form>
