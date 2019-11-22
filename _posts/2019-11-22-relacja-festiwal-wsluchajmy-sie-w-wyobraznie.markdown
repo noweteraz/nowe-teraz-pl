@@ -1,0 +1,22 @@
+---
+published: true
+date: 2019-11-22T07:30:00.000Z
+tags:
+  - patronaty
+  - informacje
+  - video
+image: /uploads/wsluchajmy-sie-w-swoja-wyobraznie-relacja.jpg
+description: >-
+   Zapraszamy na relację video z Festiwalu osób niepełnosprawnych „Wsłuchajmy się w swoją wyobraźnię”, który odbył się 15.11.2019 r.
+title: "Relacja z Festiwalu osób niepełnosprawnych „Wsłuchajmy się w swoją wyobraźnię”"
+---
+
+Przedstawiamy naszą relację video z Festiwalu osób niepełnosprawnych „Wsłuchajmy się w swoją wyobraźnię”, który odbył się 15.11.2019 r. w Skierniewicach, w budynku [Centrum Kultury i Sztuki](https://cekis.pl/){:target="_blank"}. Redakcja [wykluczeni.pl](https://www.wykluczeni.pl/) objęła wydarzenie patronatem medialnym. 
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/AIBiuD_irvU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/jxBOCCFgFy4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/KRsh6jzui5s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
