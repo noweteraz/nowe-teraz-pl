@@ -11,7 +11,7 @@ layout: post
 ul. Zielna 39  
 00-108 Warszawa  
 e-mail: [sekretariat@noweteraz.pl](mailto:sekretariat@noweteraz.pl)  
-tel.: [+48 22 247 23 10](tel:+48222472310)
+tel.: [+48 574 662 644](tel:+48574662644)
 
 KRS: 0000495968  
 NIP: 5252585787  
