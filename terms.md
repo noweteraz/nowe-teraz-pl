@@ -1,6 +1,6 @@
 ---
 title: Regulamin Aukcji Charytatywnych
-date: 2019-11-07 10:00:00
+date: 2019-11-22 10:00:00
 layout: post
 permalink: /regulamin/
 ---
@@ -37,7 +37,7 @@ Serwis internetowy www.noweteraz.pl jest platformą internetową prowadzoną prz
 **Punkt odbioru** – miejsce wydania towaru nie będące adresem pocztowym, wymienione w zestawieniu zawartym w cenniku dostaw.  
 **Rzecz** – pojedyncza rzecz ruchoma składająca się na towar.  
 **Sklep** – serwis internetowy dostępny pod adresem URL https://www.noweteraz.pl za pośrednictwem którego Kupujący może złożyć u Sprzedającego zamówienie.  
-**Sprzedający**: Fundacja Nowe Teraz, ul. Zielna 39, 00-108 Warszawa, NIP: 5252585787, REGON: 147116250, KRS: 0000495968., Nr konta: PL28 1090 2851 0000 0001 4167 6158, Santander Bank.  
+**Sprzedający**: Fundacja Nowe Teraz, ul. Zielna 39, 00-108 Warszawa, NIP: 5252585787, REGON: 147116250, KRS: 0000495968., Nr konta: PL07 1020 1013 0000 0102 0423 4647, Bank PKO BP.  
 **System** – zespół współpracujących ze sobą urządzeń informatycznych i oprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci teleinformatyczne za pomocą właściwego dla danego rodzaju sieci urządzenia końcowego, potocznie określany Internetem.  
 **Termin realizacji** – podany na karcie towaru czas, w ciągu którego towar zostanie wysłany do Kupującego.  
 **Towar** – minimalna i niepodzielna ilość rzeczy, która może być przedmiotem zamówienia, a która podana jest w sklepie Sprzedającego jako jednostka miary przy określeniu jego ceny (cena / jednostka).  
