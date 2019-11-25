@@ -5,7 +5,7 @@
 <input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/">
 <input type="hidden" name="z24_nazwa" value="{{ aukcje.title }}">
 <input type="hidden" name="z24_kwota" value="{{ aukcje.price | times:100 }}">
-<input class="buy-button" type="submit" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" />
+<input class="buy-button" type="submit" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" disabled="disabled" />
 </form>
 {% if aukcje.price-1 %}
 <form method="get" action="https://sklep.przelewy24.pl/zakup.php">
@@ -15,6 +15,6 @@
 <input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/">
 <input type="hidden" name="z24_nazwa" value="{{ aukcje.title }}">
 <input type="hidden" name="z24_kwota" value="{{ aukcje.price-1 | times:100 }}">
-<input class="buy-button" type="submit" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" />
+<input class="buy-button" type="submit" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" disabled="disabled" />
 </form>
 {% endif %}
