@@ -8,7 +8,7 @@ subtitle: wspólne działanie osób w trudnej sytuacji życiowej.
 color: yellow
 button:
   title: Aktualności
-  title-auction: Wesprzyj nasze działania
+  title-auction: Nasze Aukcje Charytatywne
   title-donate: Przekaż wsparcie finansowe
   url: '/blog/'
   internal-url: '/aukcje/'
@@ -107,11 +107,25 @@ features:
     button-donate: false
   - title: Partnerzy Fundacji
     handle: love
-    background: lightest-gray
     width: wide
     logos:
       title: companies
       image: /uploads/partnerzy-fundacji.png
+  - title: Zostań darczyńcą
+    handle: develop
+    background: lightest-gray
+    width: wide
+    subsections:
+    - title: Pomóż potrzebującym
+      body: |-
+        Nasze projekty **Wykluczeni** i **Salon Dłużnika**, wymagają bezpośredniego wsparcia dla osób znajdujących się w trudnej sytuacji życiowej.
+
+        Dzięki Twojej darowiźnie **będziemy mogli skuteczniej pomagać** ludziom w potrzebie. Możesz wpłacić darowiznę na konto lub ustawić stałe polecenie zapłaty i regularnie wspierać nasze działania.
+      image: "/uploads/home__darowizna-na-rzecz-fundacji-nowe-teraz.png"
+      logos:
+        title: 
+        image: 
+      color: red
   - title: Wesprzyj nas darowizną
     handle: outro
     width: wide
