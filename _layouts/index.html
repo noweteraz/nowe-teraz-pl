@@ -70,6 +70,7 @@ layout: default
       {% endcase %}
       {% if feature.button %}<a href="{{ page.button.url }}" class="feature__button bg--blue">{{ page.button.title }}</a>{% endif %}
       {% if feature.button-auction %}<a style="color: #222" href="{{ page.button.internal-url }}" class="feature__button bg--white">{{ page.button.title-auction }}</a>{% endif %}
+      {% if feature.button-donate %}<a style="color: #fff" href="{{ page.button.donation-url }}" class="feature__button bg--blue">{{ page.button.title-donate }}</a>{% endif %}
     </section>
   </div>
 {% endfor %}

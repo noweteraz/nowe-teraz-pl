@@ -7,17 +7,19 @@ header_title: edukujemy wspieramy inspirujemy
 subtitle: wspólne działanie osób w trudnej sytuacji życiowej.
 color: yellow
 button:
-  title: Sprawdź
-  title-auction: Wspomóż nasze działania
-  url: 'https://www.salondluznika.pl/'
+  title: Aktualności
+  title-auction: Wesprzyj nasze działania
+  title-donate: Przekaż wsparcie finansowe
+  url: '/blog/'
   internal-url: '/aukcje/'
+  donation-url: '/kontakt/'
 extended_header: true
 features:
   - title: null
     handle: intro
     background: custom
     width: wide
-    button: false
+    button: true
     subsections:
       - title: Przeciwdziałanie wykluczeniu
         body: >-
@@ -88,7 +90,6 @@ features:
     handle: launch
     background: green
     width: narrow
-    unpad: bottom
     image: /uploads/home__projeky--wykluczeni--3.svg
     body: >-
       Nasze działania mają trafiać z jednej strony do środowisk ludzi społecznie
@@ -103,6 +104,7 @@ features:
 
       Na co skierować społeczną uwagę, żeby wpłynąć na zmianę nieprzychylnej,
       niekorzystnej dla nich świadomości społecznej.
+    button-donate: false
   - title: Partnerzy Fundacji
     handle: love
     background: lightest-gray
@@ -110,11 +112,11 @@ features:
     logos:
       title: companies
       image: /uploads/partnerzy-fundacji.png
-  - title: Projekt Salon Dłużnika
+  - title: Wesprzyj nas darowizną
     handle: outro
     width: wide
-    button: true
-    body: Pomagamy zadłużonym osobom i firmom.
+    button-donate: true
+    body: Przekaż darowiznę! Dzieki Twojemu wsparciu skutecznie pomagamy potrzebującym.
 image: /assets/og-image.png
 layout: index
 published: true
