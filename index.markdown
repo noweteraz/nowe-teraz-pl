@@ -118,7 +118,7 @@ features:
     subsections:
     - title: Pomóż potrzebującym
       body: |-
-        Nasze projekty **Wykluczeni** i **Salon Dłużnika**, wymagają bezpośredniego wsparcia dla osób znajdujących się w trudnej sytuacji życiowej.
+        Nasz projekt **Wykluczeni**, wymaga bezpośredniego wsparcia dla osób znajdujących się w trudnej sytuacji życiowej.
 
         Dzięki Twojej darowiźnie **będziemy mogli skuteczniej pomagać** ludziom w potrzebie. Możesz wpłacić darowiznę na konto lub ustawić stałe polecenie zapłaty i regularnie wspierać nasze działania.
       image: "/uploads/home__darowizna-na-rzecz-fundacji-nowe-teraz.png"

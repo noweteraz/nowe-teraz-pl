@@ -1,20 +1,22 @@
-<form method="get" action="https://sklep.przelewy24.pl/zakup.php">
-<input type="hidden" name="z24_id_sprzedawcy" value="97190">
-<input type="hidden" name="z24_crc" value="41c75516d38a4fd1">
-<input type="hidden" name="z24_language" value="pl">
-<input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/">
-<input type="hidden" name="z24_nazwa" value="{{ aukcje.title }}">
-<input type="hidden" name="z24_kwota" value="{{ aukcje.price | times:100 }}">
-<input class="buy-button" type="submit" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" disabled="disabled" />
+<form name="p24" action="https://cart.przelewy24.pl/index/add" method="post" accept-charset="utf-8">
+  <input type="hidden" name="p24_crc" value="41c75516d38a4fd1" />
+  <input type="hidden" name="p24_id_salesman" value="97190" />
+  <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
+  <input type="hidden" name="p24_currency" value="pln">
+  <input type="hidden" name="p24_name" value="{{ aukcje.title }} - format rzeczywisty" />
+  <input type="hidden" name="p24_amount" value="{{ aukcje.price | times:100 }}" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość 1:1 ({{ aukcje.price }} zł)" />
+  <input type="hidden" name="p24_add" value="1" />
 </form>
 {% if aukcje.price-1 %}
-<form method="get" action="https://sklep.przelewy24.pl/zakup.php">
-<input type="hidden" name="z24_id_sprzedawcy" value="97190">
-<input type="hidden" name="z24_crc" value="41c75516d38a4fd1">
-<input type="hidden" name="z24_language" value="pl">
-<input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/">
-<input type="hidden" name="z24_nazwa" value="{{ aukcje.title }}">
-<input type="hidden" name="z24_kwota" value="{{ aukcje.price-1 | times:100 }}">
-<input class="buy-button" type="submit" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" disabled="disabled" />
+<form name="p24" action="https://cart.przelewy24.pl/index/add" method="post" accept-charset="utf-8">
+  <input type="hidden" name="p24_crc" value="41c75516d38a4fd1" />
+  <input type="hidden" name="p24_id_salesman" value="97190" />
+  <input type="hidden" name="p24_salesman_key" value="eea36f0c" />
+  <input type="hidden" name="p24_currency" value="pln">
+  <input type="hidden" name="p24_name" value="{{ aukcje.title }} - zmniejszone" />
+  <input type="hidden" name="p24_amount" value="{{ aukcje.price-1 | times:100 }}" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje wielkość zmniejszoną ({{ aukcje.price-1 }} zł)" />
+  <input type="hidden" name="p24_add" value="1" />
 </form>
 {% endif %}

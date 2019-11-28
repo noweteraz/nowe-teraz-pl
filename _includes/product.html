@@ -22,7 +22,7 @@
     <p style="display: none;" class="product__identifier">{{ aukcje.identifier }}</p>
     {% include product-definition.html %}
   </div>
-  <a data-lity href="{{ aukcje.image }}" ><img src="{{ aukcje.image }}" alt="{{ aukcje.title }} product image" class="product__image"></a>
+  <a data-lity href="{{ aukcje.image }}" ><img data-src="{{ aukcje.image }}" alt="{{ aukcje.title }} product image" class="lazyload product__image"></a>
 </div>
 </div>
 {% endfor %}

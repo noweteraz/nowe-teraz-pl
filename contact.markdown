@@ -25,6 +25,7 @@ Bank PKO BP
 
 Możesz bezpośrednio wpłacać na nasze konto bankowe. W tytule przelewu wpisz: **Darowizna na cele statutowe Fundacji Nowe Teraz**. 
 
+
 #### Zarząd Fundacji Nowe Teraz
 
 Prezes Fundacji Nowe Teraz  

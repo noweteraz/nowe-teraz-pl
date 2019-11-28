@@ -1459,6 +1459,32 @@ input[type=submit]:disabled,
 button:disabled {
   cursor: not-allowed; 
 }
+
+// donation form
+// ------
+#donation form input, button {
+  font: inherit;
+  border: 0;
+  &:focus {
+    outline: none;
+  }
+}
+
+#donation form {
+  display: flex; 
+  grid-column: 2;
+}
+
+#donation form input {
+  flex-grow: 1;
+  padding: 0.5em 0.75em;
+}
+
+#donation form button {
+  padding: 0.5em 0.75em;
+  cursor: pointer;
+}
+
 // misc
 // ------
 
