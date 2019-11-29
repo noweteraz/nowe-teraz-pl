@@ -31,7 +31,7 @@
     <p class="caption">Obejrzyj <a href="https://vimeo.com/{{post.vimeo}}" target="_blank">{{post.title}}</a> na Vimeo</p>
     {% elsif post.image %}
     <p>
-      <img src="{{post.image}}" alt="{{post.title}}" />
+      <img class="lazyload" data-src="{{post.image}}" alt="{{post.title}}" />
     </p>
     {% endif %}
 
