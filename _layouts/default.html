@@ -14,7 +14,9 @@
   </head>
   <body class="{{ page.layout }}">
     {% if site.google_analytics %}
+       <script type="text/javascript">
        {% include google-analytics.js %}
+      </script>
     {% endif %}
     <div class="wrap">
       {% include header.html %}
