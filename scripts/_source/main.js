@@ -156,7 +156,21 @@ $(function(){
     }
   };
 
-  // initialize
+  // Donation form
+$('#z24_kwota_custom').on('keyup', function(){
+    var val = this.value;
+    $('#z24_kwota').val(val*100);   
+});  
+
+$('#donation').submit(function() {
+    var name = $.trim($('#z24_kwota_custom').val());
+    if (name === '' || name == 0 || !$.isNumeric(name)) {
+        alert('Musisz wpisać liczbę. Musi być większa niż 0');
+        return false;
+    }
+});
+       
+   // initialize
   // ----------
 
   init();
@@ -204,5 +218,5 @@ $count.append(auctions_list.size());
 auctions_list.on('filterComplete', function(){
   $count.text(auctions_list.update().matchingItems.length);
 });
- 
+        
 });
