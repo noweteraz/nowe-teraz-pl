@@ -1,5 +1,6 @@
 ---
 title: Regulamin Aukcji Charytatywnych
+description: "Regulamin Aukcji Charytatywnych Fundacji Nowe Teraz."
 date: 2019-11-22 10:00:00
 layout: post
 permalink: /regulamin/

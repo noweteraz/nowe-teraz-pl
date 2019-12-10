@@ -1,5 +1,6 @@
 ---
 title: Kontakt
+description: "Fundacja Nowe Teraz, ul. Zielna 39, 00-108 Warszawa, e-mail: sekretariat@noweteraz.pl, tel.: +48 574 662 644"
 date:
 permalink: "/kontakt/"
 position: 1

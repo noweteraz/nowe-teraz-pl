@@ -1,5 +1,6 @@
 ---
 title: Polityka prywatności
+description: "Polityka prywatności i Polityka ochrony danych osobowych Fundacji Nowe Teraz."
 date: 2019-10-03 19:00:00
 permalink: "/polityka-prywatnosci/"
 position: 1
