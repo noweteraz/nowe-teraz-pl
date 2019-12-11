@@ -42,7 +42,7 @@ Zachęcamy do **skorzystania z gotowego formularza** do przelewów elektroniczny
 <section class="feature feature--narrow">
 <form method="get" action="https://sklep.przelewy24.pl/zakup.php">
 <input type="hidden" name="z24_id_sprzedawcy" value="97190">
-<input type="hidden" name="z24_crc" value="41c75516d38a4fd1">
+<input type="hidden" name="z24_crc" value="eea36f0c">
 <input type="hidden" name="z24_return_url" value="https://www.noweteraz.pl/donation-thanks/">
 <input type="hidden" name="z24_nazwa" value="Darowizna na cele statutowe Fundacji Nowe Teraz">
 <input type="hidden" name="z24_language" value="pl">
