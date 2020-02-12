@@ -32,6 +32,9 @@ Bank PKO BP
 Prezes Fundacji Nowe Teraz  
 Andrzej Grudziński
 
+#### Statut Fundacji
+[Statut Fundacji Nowe Teraz](/uploads/statut-fundacji-nowe-teraz.pdf)
+
 #### Darowizny na rzecz Fundacji
 
 Możesz bezpośrednio wpłacać na nasze konto bankowe. W tytule przelewu wpisz: **Darowizna na cele statutowe Fundacji Nowe Teraz**. 
