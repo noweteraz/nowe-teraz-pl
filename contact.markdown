@@ -32,8 +32,8 @@ Bank PKO BP
 Prezes Fundacji Nowe Teraz  
 Andrzej Grudziński
 
-#### Statut Fundacji
-[Statut Fundacji Nowe Teraz](/uploads/statut-fundacji-nowe-teraz.pdf)
+#### Nasza Misja
+[Misja Fundacji Nowe Teraz](/misja-fundacji/)
 
 #### Darowizny na rzecz Fundacji
 
