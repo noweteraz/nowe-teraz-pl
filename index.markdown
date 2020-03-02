@@ -51,10 +51,18 @@ features:
       - title: SALON DŁUŻNIKA
         handle: preview
         body: >-
-          Doświadczeni doradcy pomagają wyść z problemów związanych z
-          zadłużeniem.
+          Program wsparcia zadłużonych przeznaczony dla osób które znalazły się
+          w sytuacji, gdy nadmierne długi nie pozwalają 
+          na normalne życie rodzinne, społeczne czy zawodowe. 
         image: /uploads/home__manage--salondluznika.jpg
         link: 'https://www.salondluznika.pl/'
+      - title: GALERIA NOWE TERAZ
+        handle: gallery
+        body: >-
+          Stałe wystawy i aukcje, z których dochód przeznaczamy na
+          pomoc dla środowisk ludzi wykluczonych.
+        image: /uploads/home__manage--galeria-nowe-teraz.jpg
+        link: 'https://www.noweteraz.pl/aukcje/'
       - title: BIBLIOTEKA FNT
         handle: edit
         body: >-
