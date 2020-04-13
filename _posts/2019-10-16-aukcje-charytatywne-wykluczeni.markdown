@@ -13,7 +13,7 @@ title: Aukcje charytatywne na rzecz wykluczonych
 Zapraszamy na stałe aukcje dzieł sztuki, z których dochód przeznaczamy na pomoc dla środowisk ludzi wykluczonych. 
 
 
-Chcą Państwo pomóc, a jednocześnie stać się właścicielami wartościowego dzieła sztuki? Codziennie, w każdej godzinie i w każdej minucie mają Państwo taką szansę. Wystarczy zajrzeć na stronę [https://www.noweteraz.pl/aukcje/](https://www.noweteraz.pl/aukcje/) i kupić dzieło.
+Chcą Państwo pomóc, a jednocześnie stać się właścicielami wartościowego dzieła sztuki? Codziennie, w każdej godzinie i w każdej minucie mają Państwo taką szansę. Wystarczy zajrzeć na stronę [https://galeria.noweteraz.pl/aukcje/](https://galeria.noweteraz.pl/aukcje/) i kupić dzieło.
 
 Pamiętajcie, że beneficjentów zawsze będzie dwóch – nabywca wartościowego, opatrzonego stosownym certyfikatem dzieła czyli Państwo oraz któreś ze środowisk ludzi wykluczonych.
 

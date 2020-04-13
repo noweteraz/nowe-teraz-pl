@@ -30,7 +30,7 @@ Bank PKO BP
 #### Zarząd Fundacji Nowe Teraz
 
 Prezes Fundacji Nowe Teraz  
-Andrzej Grudziński
+Artur Król
 
 #### Nasza Misja
 [Misja Fundacji Nowe Teraz](/misja-fundacji/)

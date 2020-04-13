@@ -9,9 +9,9 @@ description: >-
 title: "Galeria Nowe Teraz. Odwiedź nas w budynku PAST-y"
 ---
 
-Zapraszamy wszystkich do odwiedzenia i zakupu prac do nowo otwartej Galerii Nowe Teraz. Wszystkie prace do obejrzenia na naszej stronie [https://www.noweteraz.pl/aukcje/henryk-dabrowski/](https://www.noweteraz.pl/aukcje/henryk-dabrowski/).
+Zapraszamy wszystkich do odwiedzenia i zakupu prac do nowo otwartej Galerii Nowe Teraz. Wszystkie prace do obejrzenia na naszej stronie [https://galeria.noweteraz.pl/aukcje/aukcja-henryk-dabrowski/](https://galeria.noweteraz.pl/aukcje/aukcja-henryk-dabrowski/).
 
-Prace można także kupić w naszej stacjonarnej galerii w  **Warszawie, ul. Zielna 39 (budynek PAST-y, I piętro)**. Galeria jest czynna od **poniedziałku do piątku w godz. 11.00-17.00**.
+Prace można także kupić w internetowej Galerii Nowe Teraz.
 
 Przypominamy, że dochód z aukcji przeznaczamy na **pomoc dla środowisk ludzi wykluczonych**.
 

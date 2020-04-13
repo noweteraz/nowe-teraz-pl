@@ -51,9 +51,11 @@ exclude:
 - README*
 - node_modules
 - ".gitignore"
+
 plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -77,8 +79,7 @@ header_nav:
   Kontakt: "/kontakt/"
 footer_nav:
   Strona główna: "/"
-  Aukcje: "/aukcje/"
-  Regulamin: "/regulamin/"
+  Aukcje: "https://galeria.noweteraz.pl"
   Polityka prywatności: "/polityka-prywatnosci/"
   Kontakt: "/kontakt/"
   
