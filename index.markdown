@@ -11,7 +11,7 @@ button:
   title-auction: Nasze Aukcje Charytatywne
   title-donate: Przekaż wsparcie finansowe
   url: '/blog/'
-  internal-url: '/aukcje/'
+  internal-url: 'https://galeria.noweteraz.pl/'
   donation-url: '/kontakt/'
 extended_header: true
 features:
@@ -62,7 +62,7 @@ features:
           Stałe wystawy i aukcje, z których dochód przeznaczamy na
           pomoc dla środowisk ludzi wykluczonych.
         image: /uploads/home__manage--galeria-nowe-teraz.jpg
-        link: 'https://www.noweteraz.pl/aukcje/'
+        link: 'https://galeria.noweteraz.pl/'
       - title: BIBLIOTEKA FNT
         handle: edit
         body: >-
