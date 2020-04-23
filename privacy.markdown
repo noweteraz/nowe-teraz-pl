@@ -1,7 +1,7 @@
 ---
 title: Polityka prywatności
 description: "Polityka prywatności i Polityka ochrony danych osobowych Fundacji Nowe Teraz."
-date: 2019-10-03 19:00:00
+date: 2020-04-23 10:00:00
 permalink: "/polityka-prywatnosci/"
 position: 1
 layout: post
@@ -37,27 +37,45 @@ Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu i wykorz
 
 Więcej informacji na temat plików cookies dostępnych jest pod adresem http://pl.wikipedia.org/wiki/Ciasteczko lub w sekcji „Pomoc” w menu przeglądarki internetowej.
 
-#### Polityka ochrony danych osobowych
+#### Administrator danych
 
-Administratorem Pani/Pana danych osobowych przetwarzanych jest: Fundacja Nowe Teraz, ul. Zielna 39, 00-108 Warszawa, e-mail: sekretariat@noweteraz.pl wpisana do Krajowego Rejestru Sądowego pod numerem KRS 0000495968 pod numerem NIP: 5252585787, REGON: 147116250.
+Administratorem Pani/Pana danych osobowych jest: Fundacja Nowe Teraz, z siedzibą przy ul. ul. Zielna 39, 00-108 Warszawa, wpisana do Krajowego Rejestru Sądowego pod numerem KRS 0000495968 pod numerem NIP: 5252585787, REGON: 147116250.
 
-W razie pytań dotyczących sposobu i zakresu przetwarzania Pani/Pana danych osobowych, czy też  przysługujących Pani/Panu uprawnień, może się Pani/Pan skontaktować drogą elektroniczną za pomocą e-mail: sekretariat@noweteraz.pl
+**Dane kontaktowe**
 
-Administrator danych osobowych przetwarza Pani/Pana dane osobowe na podstawie obowiązujących przepisów prawa, zawartych umów oraz udzielonej zgody.
+We wszystkich sprawach dotyczących przetwarzania danych osobowych oraz korzystania z praw związanych z przetwarzaniem danych można się kontaktować z administratorem drogą elektroniczną za pomocą e-mail: sekretariat@noweteraz.pl.
 
-Państwa dane osobowe będą pozyskiwane i przetwarzane w następujących celach:
+**Cele przetwarzania oraz podstawa prawna przetwarzania**
 
-* Prowadzenia ksiąg rachunkowych, dokumentacji podatkowej na podstawie art. 6 ust. 1 lit. c RODO w związku z art. 74 ust. 2 ustawy z dnia 29 września 1994 r. o rachunkowości oraz w związku z art. 26 ust. 7 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych; Pani/Pana dane osobowe mogą być również przetwarzane w celach kontaktowych z Administratorem, na postawie art. 6 ust. 1 lit. a RODO, tj. odrębnej zgody.
-- Realizacji umów zawartych z kontrahentami
+Pani/Pana dane osobowe zawarte w zamówionym kontakcie przez e-mail będą przetwarzane:
 
-* Administrator przetwarza następujące kategorie Pani/Pana danych osobowych: imię i nazwisko, dane adresowe, adres email, telefon.
+* w celu realizacji zamówionego kontaktu przez e-mail z przedstawicielem Fundacji Nowe Teraz - podstawą prawną przetwarzania danych jest uzasadniony interes administratora polegający na możliwości realizacji zamówionego kontaktu z przedstawicielem Fundacji Nowe Teraz (art. 6 ust. 1 lit. f ogólnego rozporządzenia o ochronie danych osobowych nr 2016/679 („RODO”));
 
-* Odbiorcą Pani/Pana danych osobowych mogą być podmioty uprawnione do uzyskania danych osobowych na podstawie odrębnych przepisów prawa, władze Administratora oraz upoważnieni pracownicy/współpracownicy Administratora, dostawcy usług technicznych i organizacyjnych oraz pracownicy biura księgowego Administratora, przy czym udostępnienie danych każdorazowo będzie ograniczone do niezbędnego zakresu umożliwiającego realizację wyżej wymienionego celu.
+Jeżeli Dane osobowe zbierane za pomocą zamówionego kontaktu przez e-mail w serwisie internetowym Administratora są przetwarzane również w innych celach niż wskazane powyżej, wówczas informacja o tych innych celach jest zamieszczona w Polityce Prywatności serwisu internetowego.
 
-* Pani/Pana dane osobowe będą przechowywane przez okres niezbędny do realizacji celu w jakim zostały przekazane, tj. przez okres przechowywania dokumentacji księgowej i podatkowej wynikający z przepisów prawa, a w przypadku danych przetwarzanych na podstawie zgody – do momentu jej odwołania.
+**Okres przez który dane będą przechowywane**
 
-* Przysługuje Pani/Panu prawo dostępu do swoich danych osobowych, prawo do żądania poprawienia, usunięcia lub ograniczenia przetwarzania tych danych, prawo do przenoszenia danych, prawo do cofnięcia zgody w dowolnym momencie bez wpływu na zgodność z prawem przetwarzania, którego dokonano na podstawie zgody przed jej cofnięciem.
+Pani/Pana dane osobowe będą przetwarzane do momentu wyrażenia, przez Panią/Pana, skutecznego sprzeciwu wobec przetwarzania danych osobowych, jednak nie dłużej jak do czasu realizacji zamówionego kontaktu. Okres przetwarzania danych może być przedłużony w przypadku, gdy dalsze przetwarzanie stanie się niezbędne do ustalenia i dochodzenia ewentualnych roszczeń lub obrony przed roszczeniami, a po tym czasie jedynie w przypadku i w zakresie, w jakim będą wymagać tego przepisy prawa. Po upływie okresu przetwarzania dane są nieodwracalnie usuwane lub anonimizowane.
 
-* Ma Pan/Pani prawo wniesienia skargi do organu nadzoru, gdy uzna Pani/Pan, iż przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy.
-* Podanie przez Pana/Panią danych osobowych jest niezbędne do realizacji wyżej wskazanego celu.
-* Pani/Pana dane nie będą przetwarzane w sposób zautomatyzowany, w tym również w formie profilowania.
+**Odbiorcy danych**
+
+Pani/Pana dane mogą być przekazywane podmiotom przetwarzającym dane osobowe na zlecenie administratora w tym w szczególności dostawcom odpowiedzialnym za obsługę systemów informatycznych i sprzętu, dostawcom usług organizacyjnych, podmiotom świadczącym usługi prawne – przy czym takie podmioty przetwarzają dane na podstawie umowy z administratorem i wyłącznie zgodnie z poleceniami administratora.
+Pani/Pana dane osobowe mogą być przekazywane właściwym organom uprawnionym do uzyskania danych osobowych bądź osobom trzecim, uprawnionym do uzyskania danych osobowych, opierając się na odpowiedniej podstawie prawnej oraz zgodnie z przepisami obowiązującego prawa.
+
+**Prawa osoby, której dane dotyczą**
+
+Przysługuje Pani/Panu następujące prawa:
+
+* prawo dostępu do Pani/Pana danych oraz prawa żądania ich sprostowania, usunięcia, ograniczenia przetwarzania.
+
+* w zakresie, w jakim podstawą przetwarzania Pani/Pana danych osobowych jest przesłanka prawnie uzasadnionego interesu administratora, przysługuje Pani/Panu prawo do wniesienia w dowolnym momencie sprzeciwu wobec przetwarzania Pani/Pana danych osobowych, z przyczyn związanych z Pani/Pana szczególną sytuacją.
+
+* przysługuje Pani/Panu także prawo wniesienia skargi do organu nadzorczego zajmującego się ochroną danych osobowych - w szczególności w państwie członkowskim UE Pani/Pana zwykłego pobytu, miejsca pracy lub miejsca popełnienia domniemanego naruszenia - gdy uzna Pani/Pan, że przetwarzanie Pani/Pana danych osobowych narusza przepisy Rozporządzenia 2016/679. W Polsce takim organem nadzorczym jest Prezes Urzędu Ochrony Danych Osobowych.
+
+W celu realizacji powyższych praw należy skontaktować się z administratorem danych. Można to zrobić np. przesyłając stosowny wniosek na adres siedziby administratora lub mailowo na adres sekretariat@noweteraz.pl.
+
+**Informacja o dobrowolności podania danych**
+
+Skierowanie zgłoszenia za pośrednictwem zamówionego kontaktu przez e-mail wymaga podania danych osobowych niezbędnych do nawiązania z Panią/Panem kontaktu i udzielenia odpowiedzi w związku z wpłyniętym zgłoszeniem. Podanie danych oznaczonych jako obowiązkowe jest konieczne w celu przyjęcia i obsługi zgłoszenia, a ich niepodanie wiązać się będzie z brakiem możliwości jego obsługi. Podanie pozostałych danych jest dobrowolne.
+
+Omawiając sposób realizacji obowiązku informacyjnego, warto zwrócić uwagę na stanowisko Grupy Roboczej art. 29. Wskazuje ono, że wszelkie informacje, które zostały przekazane osobie (np. w e-mailu lub formularzu do pozyskiwania danych), powinny być dla niej dostępne niezależnie w innym miejscu lub w ramach innego dokumentu. A zatem w Polityce Prywatności, tak jak wspominałam w rozmowie telefonicznej warto będzie uwzględnić wszelkie kanały i opisać zasady przetwarzania danych. W razie, gdyby cel przetwarzania, czy też zakres danych uległ zmianie, to wszelkie informacje będą uwzględnione w Polityce Prywatności, do której użytkownik - poza Klauzulą Informacyjną - będzie odwoływany. Należy jednak pamiętać, że Polityka Prywatności powinna być łatwo dostępna, na wypadek, gdyby użytkownik chciał ponownie zapoznać się z zasadami wg jakich są przetwarzane jego dane osobowe.
