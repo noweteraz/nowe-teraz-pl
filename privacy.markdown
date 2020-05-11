@@ -1,7 +1,7 @@
 ---
 title: Polityka prywatności
 description: "Polityka prywatności i Polityka ochrony danych osobowych Fundacji Nowe Teraz."
-date: 2020-04-23 10:00:00
+date: 2020-05-11 10:00:00
 permalink: "/polityka-prywatnosci/"
 position: 1
 layout: post
@@ -78,4 +78,3 @@ W celu realizacji powyższych praw należy skontaktować się z administratorem 
 
 Skierowanie zgłoszenia za pośrednictwem zamówionego kontaktu przez e-mail wymaga podania danych osobowych niezbędnych do nawiązania z Panią/Panem kontaktu i udzielenia odpowiedzi w związku z wpłyniętym zgłoszeniem. Podanie danych oznaczonych jako obowiązkowe jest konieczne w celu przyjęcia i obsługi zgłoszenia, a ich niepodanie wiązać się będzie z brakiem możliwości jego obsługi. Podanie pozostałych danych jest dobrowolne.
 
-Omawiając sposób realizacji obowiązku informacyjnego, warto zwrócić uwagę na stanowisko Grupy Roboczej art. 29. Wskazuje ono, że wszelkie informacje, które zostały przekazane osobie (np. w e-mailu lub formularzu do pozyskiwania danych), powinny być dla niej dostępne niezależnie w innym miejscu lub w ramach innego dokumentu. A zatem w Polityce Prywatności, tak jak wspominałam w rozmowie telefonicznej warto będzie uwzględnić wszelkie kanały i opisać zasady przetwarzania danych. W razie, gdyby cel przetwarzania, czy też zakres danych uległ zmianie, to wszelkie informacje będą uwzględnione w Polityce Prywatności, do której użytkownik - poza Klauzulą Informacyjną - będzie odwoływany. Należy jednak pamiętać, że Polityka Prywatności powinna być łatwo dostępna, na wypadek, gdyby użytkownik chciał ponownie zapoznać się z zasadami wg jakich są przetwarzane jego dane osobowe.
