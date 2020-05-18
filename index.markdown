@@ -37,20 +37,20 @@ features:
           szanse życiowe
         image: /uploads/home__intro--biblioteka.svg
   - title: Projekty Fundacji
-    handle: manage
+    handle: develop
     width: wide
     color: blue
     subsections:
       - title: WYKLUCZENI
         handle: collaborate
-        body: >-
+        body: |-
           Niesiemy pomoc wykluczonym oraz pomagamy zrozumieć decydentom gdzie
           leży problem aby skutecznie przeciwdziałać zjawisku wykluczenia.
         image: /uploads/home__manage--wykluczeni.jpg
         link: 'https://www.wykluczeni.pl/'
       - title: SALON DŁUŻNIKA
         handle: preview
-        body: >-
+        body: |-
           Program wsparcia zadłużonych przeznaczony dla osób które znalazły się
           w sytuacji, gdy nadmierne długi nie pozwalają 
           na normalne życie rodzinne, społeczne czy zawodowe. 
@@ -58,14 +58,14 @@ features:
         link: 'https://www.salondluznika.pl/'
       - title: GALERIA NOWE TERAZ
         handle: gallery
-        body: >-
+        body: |-
           Stałe wystawy i aukcje, z których dochód przeznaczamy na
           pomoc dla środowisk ludzi wykluczonych.
         image: /uploads/home__manage--galeria-nowe-teraz.jpg
         link: 'https://galeria.noweteraz.pl/'
       - title: BIBLIOTEKA FNT
         handle: edit
-        body: >-
+        body: |-
           Wspieramy wydawców, autorów oraz ludzi nauki pomagając i
           współfinansując publikacje, które pomagają realizować naszą misję.
         image: /uploads/home__manage--biblioteka.jpg

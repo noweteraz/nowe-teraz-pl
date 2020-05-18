@@ -22,7 +22,7 @@ layout: default
             <div class="manage__figures">
               {% for subsection in feature.subsections %}
                 <figure class="manage__figure{% if forloop.first == true %} shown{% endif %}" data-handle="{{ subsection.handle }}">
-                  <a href="{{ subsection.link }}" target="_blank"><img src="{{ subsection.image }}" /></a>
+                  <a href="{{ subsection.link }}"><img src="{{ subsection.image }}" /></a>
                 </figure>
               {% endfor %}
             </div>
@@ -44,8 +44,8 @@ layout: default
               <div class="develop__subsection__content">
                 <h3 class="{{ subsection.color }}">{{ subsection.title }}</h3>
                 {{ subsection.body | markdownify }}
-                {% if subsection.logos %}
-                  <img src="{{ subsection.logos.image }}" alt="{{ subsection.logos.title }}" class="develop__logos" />
+                {% if subsection.link %}
+                  <a href="{{ subsection.link }}" target="_blank">{{ subsection.link }}</a>
                 {% endif %}
               </div>
             </div>
