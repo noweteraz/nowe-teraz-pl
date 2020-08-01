@@ -41,6 +41,12 @@ features:
     width: wide
     color: blue
     subsections:
+      - title: CZYTAM WIĘC WIEM
+        handle: preview
+        body: |-
+          W projekcie „Czytam, więc wiem” chcemy aktywnie uczestniczć w zapobieganiu uzależnieniom i przyczynom przestępczości wśród dzieci i młodzieży. Poprzez promowanie zalet czytania książek pragniemy wpłynąć na osoby, szczególnie nieletnie, które weszły na drogę kolizji z prawem i przebywają w zakładach poprawczych, specjalnych ośrodkach szkolno-wychowawczych czy więzieniach. 
+        image: /uploads/home__manage--czytam-wiec-wiem.png
+        link: 
       - title: WYKLUCZENI
         handle: collaborate
         body: |-
