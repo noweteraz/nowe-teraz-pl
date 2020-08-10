@@ -532,7 +532,7 @@ h6 {
   }
 }
 .manage__figure {
-  @extend %browser;
+  //@extend %browser;
   box-shadow: 0 1px 0 rgba(0,0,0,0.08);
   opacity: 0;
   display: none;
@@ -608,7 +608,7 @@ h6 {
   }
 }
 .develop__subsection__figure {
-  @extend %browser;
+  //@extend %browser;
   @extend %twoUpChild--figure;
   .develop__subsection:nth-of-type(odd) & {
     margin-left: -15rem;
@@ -980,7 +980,7 @@ display: none!important;
 }
 .gallery__item {
   @extend %column;
-  @extend %browser;
+  //@extend %browser;
   width: 50%;
   margin-bottom: $v*2;
   @include max-width($max-width--xs) {
@@ -1384,7 +1384,7 @@ body {
     }
 
     &__image {
-      box-shadow: 30px 30px 50px transparentize(darken($color--blue, 50%), 0.9);
+      //box-shadow: 30px 30px 50px transparentize(darken($color--blue, 50%), 0.9);
     }
   }
 
@@ -1415,9 +1415,9 @@ body {
     max-width: 500px;
     max-height: 400px;
     background-size: cover;
-    box-shadow: -30px 30px 50px transparentize(darken($color--blue, 50%), 0.9);
+    //box-shadow: -30px 30px 50px transparentize(darken($color--blue, 50%), 0.9);
     @include max-width($max-width--md) {
-      box-shadow: 30px 30px 50px transparentize(darken($color--blue, 50%), 0.9);
+      //box-shadow: 30px 30px 50px transparentize(darken($color--blue, 50%), 0.9);
     }
 
     margin-right: auto;
@@ -1499,6 +1499,10 @@ button:disabled {
 
 .mb-90 {
   margin-bottom: 90px;
+}
+
+.link {
+  color: $color--blue;
 }
 
 // tags

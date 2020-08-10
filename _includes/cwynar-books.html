@@ -1,0 +1,16 @@
+<div class="list">
+{% assign sorted_books = site.auctions | where: "identifier", "Book" | sort: "date" %}
+{% for books in sorted_books %}
+<div class="gallery__main auctions">
+<div class="product">
+  <div class="product__information">
+    <h2 class="product__title">{{ books.title }}</h2>
+    <p class="product__description">{{ books.content }}</p>
+     {% include product-definition-paypal.html %}
+  </div>
+  <a data-lity href="{{ books.image }}" ><img data-src="{{ books.image }}" alt="{{ books.title }} product image" class="lazyload product__image"></a>
+</div>
+</div>
+{% endfor %}
+</div>
+

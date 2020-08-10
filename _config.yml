@@ -76,10 +76,12 @@ future: true
 header_nav:
   Strona główna: "/"
   Blog: "/blog/"
+  Sklep: "/sklep-charytatywny/"
   Kontakt: "/kontakt/"
 footer_nav:
   Strona główna: "/"
-  Aukcje: "https://galeria.noweteraz.pl"
+  Galeria: "https://galeria.noweteraz.pl"
+  Sklep: "/sklep-charytatywny/"
   Polityka prywatności: "/polityka-prywatnosci/"
   Kontakt: "/kontakt/"
   
