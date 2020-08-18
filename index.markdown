@@ -24,17 +24,17 @@ features:
       - title: Przeciwdziałanie wykluczeniu
         body: >-
           Pomagamy zmienić uwarunkowania uniemożliwiające normalną egzystencję w
-          społeczeństwie
+          społeczeństwie.
         image: /uploads/home__intro--wykluczeni.svg
       - title: Pomoc zadłużonym
         body: >-
           Przez program Salon Dłużnika pomagamy przywrócić dłużnika do
-          normalnego funkcjonowania
+          normalnego funkcjonowania.
         image: /uploads/home__intro--salon.svg
       - title: Edukacja społeczna i zawodowa
         body: >-
           Prowadzimy wiele programów edukacyjnych wspierających i wyrównujących
-          szanse życiowe
+          szanse życiowe.
         image: /uploads/home__intro--biblioteka.svg
   - title: Projekty Fundacji
     handle: develop
@@ -62,25 +62,6 @@ features:
           na normalne życie rodzinne, społeczne czy zawodowe. 
         image: /uploads/home__manage--salondluznika.jpg
         link: 'https://www.salondluznika.pl/'
-      - title: GALERIA NOWE TERAZ
-        handle: gallery
-        body: |-
-          Stałe wystawy i aukcje, z których dochód przeznaczamy na
-          pomoc dla środowisk ludzi wykluczonych.
-        image: /uploads/home__manage--galeria-nowe-teraz.jpg
-        link: 'https://galeria.noweteraz.pl/'
-      - title: BIBLIOTEKA FNT
-        handle: edit
-        body: |-
-          Wspieramy wydawców, autorów oraz ludzi nauki pomagając i
-          współfinansując publikacje, które pomagają realizować naszą misję.
-        image: /uploads/home__manage--biblioteka.jpg
-        link: 'https://www.noweteraz.pl/fnt-library/'
-      - title: EUROGOSPODARKA
-        handle: customize
-        body: 'Nasze pismo tłumaczące zawiłości rynków, gospodarki, pieniądza.'
-        image: /uploads/home__manage--eurogospodarka.jpg
-        link: 'https://www.eurogospodarka.com/'
   - title: Przeciwdziałajmy wykluczeniu
     handle: free
     background: darkest-gray

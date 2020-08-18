@@ -76,6 +76,7 @@ future: true
 header_nav:
   Strona główna: "/"
   Blog: "/blog/"
+  Projekty: "/projekty/"
   Sklep: "/sklep-charytatywny/"
   Kontakt: "/kontakt/"
 footer_nav:
