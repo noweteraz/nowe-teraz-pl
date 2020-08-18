@@ -2,7 +2,7 @@
 published: true
 date: 2020-08-18T07:00:00.000CET
 tags: 
-image: /uploads/Lokajski_-_Płonąca_Pasta_(1944).jpg
+image: /uploads/Lokajski_-_Plonaca_Pasta_(1944).jpg
 description: >-
    20 sierpnia 1944 r., biało-czerwona flaga zawisła na gmachu Polskiej Akcyjnej Spółki Telefonicznej (PAST-y) przy ul. Zielnej. Zdobycie tego budynku było jednym z największych sukcesów Powstania Warszawskiego.
 title: "76 lat temu, 20 sierpnia 1944 r., powstańcy zdobyli budynek PAST-y"
