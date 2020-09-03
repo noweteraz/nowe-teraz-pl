@@ -62,6 +62,13 @@ features:
           na normalne życie rodzinne, społeczne czy zawodowe. 
         image: /uploads/home__manage--salondluznika.jpg
         link: 'https://www.salondluznika.pl/'
+      - title: GALERIA NOWE TERAZ
+        handle: gallery
+        body: |-
+          Stałe wystawy i aukcje, z których dochód przeznaczamy na 
+          pomoc dla środowisk ludzi wykluczonych.
+        image: /uploads/home__manage--galeria-nowe-teraz.jpg
+        link: 'https://galeria.noweteraz.pl/'
   - title: Przeciwdziałajmy wykluczeniu
     handle: free
     background: darkest-gray
