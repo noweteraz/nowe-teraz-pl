@@ -41,6 +41,12 @@ features:
     width: wide
     color: blue
     subsections:
+      - title: Pomagamy Kubie
+        handle: preview
+        body: |-
+          Uruchamiamy projekt wsparcia finansowego dla Kuby Rydzika. Kuba od małego ciężko choruje na autyzm oraz padaczkę skroniową. Potrzebuje kosztownej rehabilitacji na którą nie stać rodziny. Dlatego Paweł Cwynar wraz z Fundacją Nowe Teraz, postanowili przekazać całkowity dochód z książki Pawła Cwynara pt. „Picie w zachwycie” na cel wspierający rehabilitację. 
+        image: /uploads/home__manage--pomoc-kuba-rydzik.jpg
+        link: 'https://www.noweteraz.pl/blog/pomoc-dla-kuby-rydzika/'
       - title: CZYTAM WIĘC WIEM
         handle: preview
         body: |-
