@@ -18,12 +18,12 @@ features:
           Uruchamiamy projekt wsparcia finansowego dla Kuby Rydzika. Kuba od małego ciężko choruje na autyzm oraz padaczkę skroniową. Potrzebuje kosztownej rehabilitacji na którą nie stać rodziny. Dlatego Paweł Cwynar wraz z Fundacją Nowe Teraz, postanowili przekazać całkowity dochód z książki Pawła Cwynara pt. „Picie w zachwycie” na cel wspierający rehabilitację. 
         image: /uploads/home__manage--pomoc-kuba-rydzik.jpg
         link: 'https://www.noweteraz.pl/blog/pomoc-dla-kuby-rydzika/'
-      - title: CZYTAM WIĘC WIEM
+      - title: WIEM, BO CZYTAM
         handle: preview
         body: |-
-          W projekcie „Czytam, więc wiem” chcemy aktywnie uczestniczyć w zapobieganiu uzależnieniom i przyczynom przestępczości wśród dzieci i młodzieży. Poprzez promowanie zalet czytania książek pragniemy wpłynąć na osoby, szczególnie nieletnie, które weszły na drogę kolizji z prawem i przebywają w zakładach poprawczych, specjalnych ośrodkach szkolno-wychowawczych czy więzieniach. 
-        image: /uploads/home__manage--czytam-wiec-wiem.png
-        link: 
+          W projekcie „Wiem, bo czytam” chcemy aktywnie uczestniczyć w zapobieganiu uzależnieniom i przyczynom przestępczości wśród dzieci i młodzieży. Poprzez promowanie zalet czytania książek pragniemy wpłynąć na osoby, szczególnie nieletnie, które weszły na drogę kolizji z prawem i przebywają w zakładach poprawczych, specjalnych ośrodkach szkolno-wychowawczych czy więzieniach. 
+        image: /uploads/home__manage--czytam-wiec-wiem.jpg
+        link: 'https://czytam.noweteraz.pl'
       - title: WYKLUCZENI
         handle: collaborate
         body: |-
