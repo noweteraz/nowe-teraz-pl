@@ -5,7 +5,7 @@
   <input type="hidden" name="p24_currency" value="pln">
   <input type="hidden" name="p24_name" value="{{ books.title }}" />
   <input type="hidden" name="p24_amount" value="{{ books.price | times:100 }}" />
-  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje ({{ books.price }} zł)" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuję ({{ books.price }} zł)" />
   <input type="hidden" name="p24_add" value="1" />
 </form>
 {% if books.price-gift %}
@@ -16,7 +16,7 @@
   <input type="hidden" name="p24_currency" value="pln">
   <input type="hidden" name="p24_name" value="{{ books.title }} - zapakowane na prezent" />
   <input type="hidden" name="p24_amount" value="{{ books.price-gift | times:100 }}" />
-  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuje zapakowane na prezent ({{ books.price-gift }} zł)" />
+  <input class="buy-button przelewy-add-item" type="submit" name="" value="Kupuję zapakowane na prezent ({{ books.price-gift }} zł)" />
   <input type="hidden" name="p24_add" value="1" />
 </form>
 {% endif %}
