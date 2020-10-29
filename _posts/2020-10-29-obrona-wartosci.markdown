@@ -8,8 +8,10 @@ description: >-
 title: "Obrona wartości to wybór każdego z nas"
 ---
 
+Pogarda, ataki i demolka - NIE - jednak Kościoła to nie zniszczy. Być może materialnie tak. Zadawaniu bólu drugiemu człowiekowi - mówimy nie! Nawet najwyższe cele nie są warte zadawania bólu. Walka bez użycia przemocy jest trudną sztuką lecz jedyną prowadzącą do zwycięstwa, dobra i pokoju. 
+
 <blockquote>
-Pogarda, ataki i demolka - nie - jednak Kościoła to nie zniszczy. Być może materialnie tak. Zadawaniu bólu drugiemu człowiekowi - mówimy nie! Nawet najwyższe cele nie warte są zadawaniu bólu. Walka bez użycia przemocy jest trudną sztuką lecz jedyną prowadzącą do zwycięstwa, dobra i pokoju. - <strong>ks. kard. Stefan Wyszyński </strong>
+[...] Nie pytam dlaczego... - <strong>ks. kard. Stefan Wyszyński </strong>
 </blockquote>
 
 <blockquote>
