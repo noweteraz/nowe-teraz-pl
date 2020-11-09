@@ -14,5 +14,5 @@ Proklamował go w listopadzie 2016 roku papież Franciszek w Liście Apostolskim
 
 Po raz pierwszy obchodzono go 19 listopada 2017 roku pod hasłem „Nie miłujmy słowem, ale czynem”. W swoim posłaniu na ten dzień papież Franciszek podkreślał m.in., że „Ojcze nasz” to modlitwa ubogich. Łączmy się zatem w modlitwie i działaniu prosząc o papieskie błogosławieństwo we wszystkich dziełach na rzecz potrzebujących. 
 
-Zapraszamy do zapoznania się z tekstem dotyczącym problemu ubóstwa na naszym portalu [wykluczeni.pl](https://www.wykluczeni.pl/){:target="_blank"}. 
+Zapraszamy do zapoznania się z tekstem dotyczącym problemu ubóstwa na naszym portalu [wykluczeni.pl](https://www.wykluczeni.pl/ubostwo-znaczy-wykluczenie/){:target="_blank"}. 
 
