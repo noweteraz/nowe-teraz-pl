@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2020-11-10T07:30:00.000Z
+date: 2020-11-09T07:30:00.000Z
 tags:
 image: /uploads/flaga-polski.jpg
 description: >-
