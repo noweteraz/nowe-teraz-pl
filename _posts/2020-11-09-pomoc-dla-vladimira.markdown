@@ -8,7 +8,7 @@ description: >-
 title: "Pomoc dla Vladimira"
 ---
 
-Uruchamiamy projekt zbiórki pieniędzy na leczenie i rehabilitację dla 3 letniego Vladimira z Białorusi. Vladimir musi przejść aktywny kurs rehabilitacji w centrum intensywnej terapii "Olinek" w Warszawie.
+Uruchamiamy projekt zbiórki pieniędzy na leczenie i rehabilitację dla 3 letniego Vladimira z Białorusi. Vladimir musi przejść aktywny kurs rehabilitacji w [Centrum Intensywnej Terapii "Olinek"](https://olinek.com.pl){:target="_blank"} w Warszawie.
 
 Z powodu sytuacji politycznej na Białorusi rodzinie zablokowano konta i białoruskie fundacje charytatywne nie mogą im pomóc w opłaceniu rachunku za leczenie i rehabilitację Vladimira.
 
