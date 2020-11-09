@@ -12,6 +12,12 @@ features:
     width: wide
     color: blue
     subsections:
+      - title: Pomagamy Vladimirowi z Białorusi
+        handle: preview
+        body: |-
+          Uruchamiamy projekt zbiórki pieniędzy na leczenie i rehabilitację dla 3 letniego Vladimira z Białorusi. Vladimir musi przejść aktywny kurs rehabilitacji w centrum intensywnej terapii "Olinek" w Warszawie. 
+        image: /uploads/home__manage--pomoc-vladimir.jpg
+        link: 'https://www.noweteraz.pl/blog/pomoc-dla-vladimira/'
       - title: Pomagamy Kubie
         handle: preview
         body: |-
