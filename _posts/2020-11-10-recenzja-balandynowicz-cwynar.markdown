@@ -1,11 +1,12 @@
 ---
-published: true
-date: 2020-11-10T07:00:00.000CET
-tags:
+published: false
+date: '2020-11-10T07:00:00.000CET'
+tags: null
 image: /uploads/apel-prof-andrzeja-balandynowicza-do-papieza-franciszka.jpg
 description: >-
-   Przedstawiamy obszerną recenzję książki Pawła Cwynara pt. "Wysłuchaj mnie proszę…" napisaną przez prof. zw. dr hab. Andrzeja Bałandynowicza.
-title: "Recenzja książki Pawła Cwynara pt. Wysłuchaj mnie proszę… "
+  Przedstawiamy obszerną recenzję książki Pawła Cwynara pt. "Wysłuchaj mnie
+  proszę…" napisaną przez prof. zw. dr hab. Andrzeja Bałandynowicza.
+title: 'Recenzja książki Pawła Cwynara pt. Wysłuchaj mnie proszę… '
 file: /uploads/files/recenzja-wysluchaj-mnie-prosze-andrzej-balandynowicz.pdf
 ---
 
