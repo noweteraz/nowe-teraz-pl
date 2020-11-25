@@ -1,14 +1,15 @@
 ---
 published: true
-date: 2020-11-24T07:00:00.000CET
-tags: 
+date: '2020-11-24T07:00:00.000CET'
+tags: null
 image: /uploads/fundacja-nowe-teraz-wizyta-podopiecznego-vladimira-1.jpg
 description: >-
-   Kilka dni temu odwiedził nas Vladimir z rodzicami. Właśnie ukończył kolejnt turnus rehabilitacyjny.
-title: "Odwiedził nas Vladimir"
+  Kilka dni temu odwiedził nas Vladimir z rodzicami. Właśnie ukończył kolejnt
+  turnus rehabilitacyjny.
+title: Odwiedził nas Vladimir
 ---
 
-Kilka dni temu odwiedził nas Vladimir z rodzicami. Właśnie ukończył kolejnt turnus rehabilitacyjny w [Centrum Intensywnej Terapii "Olinek"](https://olinek.com.pl){:target="_blank"} w Warszawie.
+Kilka dni temu odwiedził nas Vladimir z rodzicami. Właśnie ukończył kolejny turnus rehabilitacyjny w [Centrum Intensywnej Terapii "Olinek"](https://olinek.com.pl){:target="_blank"} w Warszawie.
 
 Vladimir jest naszym podopiecznym. Pisaliśmy o jego przypadku [w tym wpisie](https://www.noweteraz.pl/blog/pomoc-dla-vladimira/).
 
