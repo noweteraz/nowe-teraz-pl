@@ -16,3 +16,5 @@ Pani Dominika udzieliła nam wywiadu na potrzeby projektu „Wiem, bo czytam”,
 Rozmowy przebiegły w serdeczniej atmosferze. Poruszaliśmy także temat ewentualnej dalszej współpracy pani Dominiki Zamary z Fundacją Nowe Teraz, w szczególności na rzecz osób wykluczonych społecznie.
 
 Dziękujemy za wizytę.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2n3VfxR3SUk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
