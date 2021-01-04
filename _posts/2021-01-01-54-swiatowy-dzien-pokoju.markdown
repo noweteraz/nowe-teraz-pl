@@ -14,6 +14,6 @@ Obchodzony jest 1 stycznia. Co roku ma inny temat wybrany przez papieża, który
 
 Przypominamy w tym miejscu zamieszczony także na naszym blogu [apel prof. Andrzeja Bałandynowicza do papieża Franciszka](https://www.noweteraz.pl/blog/apel-balandynowicza-do-papieza/), o m.in. powołaniu Światowego Uniwersytetu Pokoju.
 
-W tym roku dzień przebiega pod hasłem "Kultura troskliwości jako droga do pokoju". Jak co roku papież przedsawił z tej okazji orędzie. Można się z nim zapoznać pod adresem: [http://www.vatican.va](https://www.vatican.va/content/francesco/pl/messages/peace/documents/papa-francesco_20201208_messaggio-54giornatamondiale-pace2021.html){:target="_blank"}
+W tym roku dzień przebiega pod hasłem "Kultura troskliwości jako droga do pokoju". Jak co roku papież przedstawił z tej okazji orędzie. Można się z nim zapoznać pod adresem: [http://www.vatican.va](https://www.vatican.va/content/francesco/pl/messages/peace/documents/papa-francesco_20201208_messaggio-54giornatamondiale-pace2021.html){:target="_blank"}
 
 
