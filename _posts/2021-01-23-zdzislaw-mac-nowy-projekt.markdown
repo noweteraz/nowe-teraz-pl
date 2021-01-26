@@ -4,11 +4,11 @@ date: '2021-01-23T07:00:00.000CET'
 tags: null
 image: /uploads/pawel-cwynar-i-zdzislaw-mac.jpg
 description: >-
-  Dzisiaj Paweł Cwynar i Zdzisław Mac po raz pierwszy omawiali szczegóły współpracy nad nowym projektem dotyczącym pomocy dla osób wykluczonych społecznie.
-title: Witamy Zdzisława Maca w gronie współpracowników
+  Dzisiaj redaktor Zdzisław Mac i Paweł Cwynar po raz pierwszy omawiali szczegóły współpracy nad nowym projektem dotyczącym pomocy dla osób wykluczonych społecznie.
+title: Robocze spotkanie w sprawie nowego projektu
 ---
 
-Dzisiaj Paweł Cwynar i Zdzisław Mac po raz pierwszy omawiali szczegóły współpracy nad nowym projektem dotyczącym pomocy dla osób wykluczonych społecznie.
+Dzisiaj redaktor Zdzisław Mac i Paweł Cwynar po raz pierwszy omawiali szczegóły współpracy nad nowym projektem dotyczącym pomocy dla osób wykluczonych społecznie.
 
 Warto wspomieć, że Zdzisław Mac we współpracy z naszą Fundacją realizuje także film dokumentalny „Kwarantanna bezdomnych”.
 
