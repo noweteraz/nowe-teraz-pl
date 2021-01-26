@@ -2,7 +2,7 @@
 published: true
 date: '2020-11-24T07:00:00.000CET'
 tags: null
-image: /uploads/fundacja-nowe-teraz-wizyta-podopiecznego-vladimira-1.jpg
+image: /uploads/undacja-nowe-teraz-wizyta-podopiecznego-vladimira-1.jpg
 description: >-
   Kilka dni temu odwiedził nas Vladimir z rodzicami. Właśnie ukończył kolejnt
   turnus rehabilitacyjny.
