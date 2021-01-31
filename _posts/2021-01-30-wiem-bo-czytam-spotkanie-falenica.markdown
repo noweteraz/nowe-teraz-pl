@@ -14,7 +14,7 @@ Tym razem Paweł rozmawiał z młodzieżą ze Schroniska dla Nieletnich i Zakła
 
 Zapraszamy do zapoznania się ze szczegółami naszego [projektu „Wiem, bo czytam”](https://czytam.noweteraz.pl/){:target="_blank"}.
 
-
+Projekt "Wiem, bo czytam" jest dofinansowany ze środków Fundacji PZU.
 
 
 
