@@ -8,7 +8,7 @@ description: >-
 title: Paweł Cwynar rozmawia z młodzieżą w Młodzieżowym Ośrodku Wychowawczym
 ---
 
-W Młodzieżowym Ośrodku Wychowawczym odbyło się kolejne spotkanie z Pawłem Cwynarem w ramach projektu „Czytam, więc wybieram świadomie”. Paweł Cwynar aktywnie uczestniczy w zapobieganiu uzależnieniom i przyczynom przestępczości wśród dorosłych, dzieci i młodzieży. Projekt ma także na celu wzbudzenie w młodzieży pożądanej społecznie postawy wobec czytelnictwa wartościowych książek.
+W Młodzieżowym Ośrodku Wychowawczym odbyło się kolejne spotkanie z Pawłem Cwynarem w ramach projektu „Czytam, więc wybieram świadomie”, realizowanego przez Fundację Nowe Teraz. Projekt ma między innymi zapobiegać uzależnieniom i przyczynom przestępczości wśród dorosłych, dzieci i młodzieży. Ma także na celu wzbudzenie w młodzieży pożądanej społecznie postawy wobec czytelnictwa wartościowych książek.
 
 Spotkanie odbyło się dzięki wsparciu Fundacji PZU.
 
