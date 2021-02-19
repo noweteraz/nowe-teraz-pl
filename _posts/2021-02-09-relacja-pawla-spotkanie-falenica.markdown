@@ -5,7 +5,7 @@ tags: null
 image: /uploads/pawel-cwynar-falenica-logo-pzu.jpg
 description: >-
             Krótka relacja Pawła Cwynara ze spotkania w ramach realizacji projektu „Czytam, więc wybieram świadomie”.
-title: Relacja Pawła ze spotkania w Schronisku dla Nieletnich w Warszawie-Falenicy
+title: Relacja Pawła Cwynara ze spotkania w Schronisku dla Nieletnich w Warszawie-Falenicy
 ---
 
 Pierwsze w tym roku spotkanie, gdzie z ramienia Fundacji Nowe Teraz w ramach projektu „Czytam, więc wybieram świadomie”, którego Partnerem jest FUNDACJA PZU Pomoc to Moc - społeczna odpowiedzialność PZU miałem okazję odwiedzić  Schronisko dla Nieletnich i Zakład Poprawczy w Warszawie-Falenicy. 
