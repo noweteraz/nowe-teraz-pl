@@ -16,7 +16,6 @@ Zapraszamy do zapoznania się ze szczegółami naszego [projektu „Wiem, bo czy
 
 Projekt "Wiem, bo czytam" jest dofinansowany ze środków Fundacji PZU.
 
-![Logo Fundacja PZU](/uploads/logo-fundacja-pzu-poziom.jpg)
 
 
 
