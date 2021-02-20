@@ -12,6 +12,8 @@ Pierwsze w tym roku spotkanie, gdzie z ramienia Fundacji Nowe Teraz w ramach pro
 
 Spotkanie trwało trzy godziny. Zainteresowanie było duże. Świetna atmosfera, owocny czas. Dziękuję organizatorom i administracji ośrodka za profesjonalne przygotowanie. Mimo, że nie mówię o kwestiach prostych i łatwych w odbiorze, to jednak w tym o czym mówię czuję się spełniony. Tematyka wpisuje się w moją misję jak i pasję.
 
+Projekt "Czytam, więc wybieram świadomie" jest sfinansowany ze środków Fundacji PZU.
+
 *Paweł Cwynar*
 
 

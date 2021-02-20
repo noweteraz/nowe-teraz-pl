@@ -14,7 +14,7 @@ Prelekcja wywarła na młodzieży bardzo dobre wrażenie i mam nadzieję, że sk
 
 Projekt Fundacji Nowe Teraz ma na celu między innymi zapobiegać uzależnieniom i przyczynom przestępczości wśród dorosłych, dzieci i młodzieży. Ma także na celu wzbudzenie w młodzieży pożądanej społecznie postawy wobec czytelnictwa wartościowych książek.
 
-Projekt "Czytam, więc wybieram świadomie" jest dofinansowany ze środków Fundacji PZU.
+Projekt "Czytam, więc wybieram świadomie" jest sfinansowany ze środków Fundacji PZU.
 
 *Paweł Cwynar*
 
