@@ -2,7 +2,7 @@
 published: true
 date: '2021-02-09T07:00:00.000CET'
 tags: null
-image: /uploads/pawel-cwynar-falenica-logo-pzu.jpg
+image: /uploads/wiem-bo-czytam-pawel-cwynar-falenica.jpg
 description: >-
             Krótka relacja Pawła Cwynara ze spotkania w ramach realizacji projektu „Czytam, więc wybieram świadomie”.
 title: Relacja Pawła Cwynara ze spotkania w Schronisku dla Nieletnich w Warszawie-Falenicy
@@ -13,6 +13,8 @@ Pierwsze w tym roku spotkanie, gdzie z ramienia Fundacji Nowe Teraz w ramach pro
 Spotkanie trwało trzy godziny. Zainteresowanie było duże. Świetna atmosfera, owocny czas. Dziękuję organizatorom i administracji ośrodka za profesjonalne przygotowanie. Mimo, że nie mówię o kwestiach prostych i łatwych w odbiorze, to jednak w tym o czym mówię czuję się spełniony. Tematyka wpisuje się w moją misję jak i pasję.
 
 Projekt "Czytam, więc wybieram świadomie" jest sfinansowany ze środków Fundacji PZU.
+
+![Logo Fundacja PZU](/uploads/logo-fundacja-pzu-poziom.jpg)
 
 *Paweł Cwynar*
 
